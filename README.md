@@ -63,12 +63,22 @@ All training requested and undertaken once I had identified gaps in our team's k
 **The Low Incomes Tax Reform Group** (2012 to 2020)    
 *Digital Content Manager*  
 - As Digital Content lead, website manager and SEO lead I helped increase our website traffic from roughly 100,000 visitors a year to 5.5 million over my tenure. This included overseeing an extensive website migration, setting up and managing project sites, devising yearly project and marketing plans, and being the key liaison between the team and our developers.
-- Gained knowledge of Drupal CMS and ExpressionEngine.
+- Experienced using Drupal CMS, ExpressionEngine, Sharepoint and ClickDimensions.
 
 **The Chartered Institute of Taxation** (2010 to 2012)   
 *Technical Team Adminstrator*  
-- Any experience relevent to software development
+- Website management of 3 separate organisations' Technical areas, including proofing and formatting content, database management (Citrix and Access) and social media output.
+
+## Freelance
+
+**Leasing Life/Motor Finance magazines** (2016 to present)
+*Sub-editor*
+- Proofing and copy editing in Indesign
+
+**Bridal Bus** (2020 to present)
+*Web developer*
+I recently started building a website for a new business, Bridal Bus, using Wordpress. This project is still in its infancy but I am aiming to help quickly set the website up then add bespoke features using the knowledge I have gained from both my Web Development Foundation and at Makers. 
 
 ## Hobbies
 
-Sci-fi nut, gamer since the days of DOS, in practice a worse piano player than my many years of playing suggest, amateur ceramist, cat botherer, and destroyer of potted plants
+Sci-fi nut, gamer since the days of DOS, in practice a worse piano player than my many years of playing suggest, amateur ceramist, cat whisperer, and destroyer of potted plants.
