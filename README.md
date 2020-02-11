@@ -43,26 +43,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - HTML5, CSS3, JavaScript
 - Git and GitHub
 - Responsive and Accessible development
+- Project work (including JavaSpider, the first team project I worked on) and pair programming
 
 #### Durham University (2005 to 2008)
 
-- BA Combined Honours in Arts (Classics and English)
-- 2:1
+- Combined Honours in Arts (Classics and English): BA(Hons) 2:1
 - Elective modules in Ancient History and Ancient Egyptian Hieroglypics
 
-#### Any other qualifications
-
-Training? 
+#### Training courses
+All training requested and undertaken once I had identified gaps in our team's knowledge and expertise. This contributed to our team's effeciency and success as I was able to take these roles in-house.
+- Drupal 7 CMS training
+- HTML/CSS Level 1 Programming Course
+- Fast Track Digital Marketing
+- Content Marketing for Web, Mobile and Social Media
+- Google Analytics Advance - Optimising your site training
 
 ## Experience
 
 **The Low Incomes Tax Reform Group** (2012 to 2020)    
 *Digital Content Manager*  
-- Website Manager and SEO lead
-- 
+- As Digital Content lead, website manager and SEO lead I helped increase our website traffic from roughly 100,000 visitors a year to 5.5 million over my tenure. This included overseeing an extensive website migration, setting up and managing project sites, devising yearly project and marketing plans, and being the key liaison between the team and our developers.
+- Gained knowledge of Drupal CMS and ExpressionEngine.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**The Chartered Institute of Taxation** (2010 to 2012)   
+*Technical Team Adminstrator*  
 - Any experience relevent to software development
 
 ## Hobbies
