@@ -87,7 +87,7 @@ All training requested and undertaken once I had identified gaps in our team's k
 
 ## Hobbies
 
-Sci-fi nut, gamer since the days of DOS, in practice a worse piano player than my years of playing suggest, amateur ceramist, cat whisperer, and destroyer of potted plants.
+Sci-fi nut, gamer since the days of DOS, in practice a worse piano player than my years of playing suggest, amateur ceramicist, cat whisperer, and destroyer of potted plants.
 
 ## Contact
 * GitHub: [Kittaru87](https://github.com/Kittaru87)
