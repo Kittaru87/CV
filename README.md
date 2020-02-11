@@ -32,6 +32,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Projects
 
+
+
 ## Education
 
 #### Makers Academy (January 2020 - May 2020)
@@ -47,7 +49,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - HTML5, CSS3, JavaScript
 - Git and GitHub
 - Responsive and Accessible development
-- Project work (including [JavaSpider](https://kittaru87.github.io/JavaSpider/), the first team project I worked on) and pair programming
+- Project work (including [JavaSpider](https://github.com/Kittaru87/JavaSpider), the first team project I worked on) and pair programming
 
 #### Durham University (2005 to 2008)
 
