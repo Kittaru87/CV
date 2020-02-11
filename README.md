@@ -73,11 +73,11 @@ All training requested and undertaken once I had identified gaps in our team's k
 
 ## Freelance
 
-**Leasing Life/Motor Finance magazines** (2016 to present)
+**Leasing Life/Motor Finance magazines** (2016 to present)    
 *Sub-editor*
 - Proofing and copy editing in Indesign
 
-**Bridal Bus** (2020 to present)
+**Bridal Bus** (2020 to present)    
 *Web developer*
 - I recently started building a website for a new business, Bridal Bus, using Wordpress. This project is still in its infancy but I am aiming to help quickly set the website up then add bespoke features using the knowledge I have gained from both my Web Development Foundation and at Makers. 
 
