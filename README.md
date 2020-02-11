@@ -9,6 +9,8 @@ intro
 
 Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
+**Tech Skills** : Ruby, Rails, HTML, CSS, Javascript
+
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -43,7 +45,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - HTML5, CSS3, JavaScript
 - Git and GitHub
 - Responsive and Accessible development
-- Project work (including JavaSpider, the first team project I worked on) and pair programming
+- Project work (including [JavaSpider](https://github.com/Kittaru87/JavaSpider), the first team project I worked on) and pair programming
 
 #### Durham University (2005 to 2008)
 
@@ -77,8 +79,12 @@ All training requested and undertaken once I had identified gaps in our team's k
 
 **Bridal Bus** (2020 to present)
 *Web developer*
-I recently started building a website for a new business, Bridal Bus, using Wordpress. This project is still in its infancy but I am aiming to help quickly set the website up then add bespoke features using the knowledge I have gained from both my Web Development Foundation and at Makers. 
+- I recently started building a website for a new business, Bridal Bus, using Wordpress. This project is still in its infancy but I am aiming to help quickly set the website up then add bespoke features using the knowledge I have gained from both my Web Development Foundation and at Makers. 
 
 ## Hobbies
 
-Sci-fi nut, gamer since the days of DOS, in practice a worse piano player than my many years of playing suggest, amateur ceramist, cat whisperer, and destroyer of potted plants.
+Sci-fi nut, gamer since the days of DOS, in practice a worse piano player than my years of playing suggest, amateur ceramist, cat whisperer, and destroyer of potted plants.
+
+## Contact
+* GitHub: [Kittaru87](https://github.com/Kittaru87)
+* Blogging site: 
