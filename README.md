@@ -31,9 +31,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Projects
+| Project       | Details       | Technologies  | Testing  |
+| ------------- |:-------------:| :------------:|---------:|
+|               |               |               |          |
+|               |               |               |          |
+|               |               |               |          |
 
-
-
+All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 ## Education
 
 #### Makers Academy (January 2020 - May 2020)
