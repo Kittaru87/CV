@@ -18,7 +18,7 @@ I look forward to taking the skills I already have and those I will learn and ap
 
 **Adaptable and thrives under pressure**
 
-I've always enjoyed taking on new things, and have often had to adapt my current position in order to accomodate extra work. A few years back we undertook a large website migration to a new Drupal CMS which I was co-ordinating alongside the old and new developers. Unfortunately for us the old developers went into administration as this process was happening and despite the promise that all our archived data was safe, it turned out not to be the case. I moved to a new system that threw up over 20,000 errors when I ran it through Webmaster tools (Google Search Console). Not only did I have to learn how to be administrator to a new CMS but I had to debug and relink our entire site while trying to hunt down an entire library of documents. 
+I've always enjoyed taking on new things, and have often had to adapt my current position in order to accomodate extra work. A few years back we undertook a large website migration to a new Drupal CMS which I was co-ordinating alongside the old and new developers. Unfortunately for us the old developers went into administration as this process was happening and despite the promise that all our archived data was safe, it turned out not to be the case. I moved to a new system that threw up over 20,000 errors when I ran it through Webmaster tools (Google Search Console). Not only did I have to learn how to be administrator to a new CMS but I had to debug and relink our entire site while trying to hunt down an entire library of documents. I did it and our website has since gone on to be the most successful it has ever been.
 
 **Attention to detail**
 
