@@ -6,7 +6,7 @@ Current student at the inimitable Makers Academy, following a nine year career w
 
 ## Profile
 
-Changing careers is not an easy thing to do. However you can spend so long in a role that tasks become predictable and your job no longer excites you. I needed a change of tact. Then I found programming! What started as a couple of online courses in my spare time led to a 3 month evening course, which then led to Makers, a 16-week intensive dev bootcamp. And I am loving every second of it.
+Changing careers is not an easy thing to do. However you can spend so long in a role that tasks become predictable and your job no longer excites you. I needed a change of tack. Then I found programming! What started as a couple of online courses in my spare time led to a 3 month evening course, which then led to Makers, a 16-week intensive dev bootcamp. And I am loving every second of it.
 
 My professional training includes pair programming and test-driven development (TDD), and incorporates front- and back-end development. It is both fast paced and constantly evolving, conditions that I thrive in - the more there is to learn, the better.
 
