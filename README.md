@@ -16,7 +16,7 @@ I look forward to taking the skills I already have and those I will learn and ap
 
 ## Skills
 
-**Adaptable**
+**Adaptable and thrives under pressure**
 
 I've always enjoyed taking on new things, and have often had to adapt my current position in order to accomodate extra work. A few years back we undertook a large website migration to a new Drupal CMS which I was co-ordinating alongside the old and new developers. Unfortunately for us the old developers went into administration as this process was happening and despite the promise that all our archived data was safe, it turned out not to be the case. I moved to a new system that threw up over 20,000 errors when I ran it through Webmaster tools (Google Search Console). Not only did I have to learn how to be administrator to a new CMS but I had to debug and relink our entire site while trying to hunt down an entire library of documents. 
 
@@ -26,21 +26,11 @@ It is important to be able to spot mistakes, especially when it comes to code. M
 
 **Efficient**
 
-One of the managers at my previous job was once asked how she would describe me in one word and turns out that word was 'efficient'. I am able to take on numerous roles at one time (SEO, digital content, website management, administrative support) because of my ability to find the simplest, most productive way of achieving the my goals.
-
-**Fast learner**
+One of the managers at my previous job was once asked how she would describe me in one word and turns out that word was 'efficient'. I am able to take on numerous roles at one time (SEO, digital content, website management, administrative support) because of my ability to find the simplest, most productive way of achieving my goals.
 
 **Takes the initiative**
 
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Once I had an inkling that software engineering was the path I wanted to take, I immediately set about making that happen alongside my day job and freelance work. Not only have I attended an evening web development course as well as undertaken online courses but I've also sat down with a number of friends already in the industry to pair programme with and to pick their brains on best practice and what their expectations are for junior developers. I've also helped a couple of my friends with their websites (mostly SEO), which has allowed me more experience with different CMSs, and have started building a website for an ex-colleague for her new business. Learning by doing will compliment what I learn at Makers and look foward to building up my own portfolio.
 
 ## Projects
 | Project       | Details       | Technologies  | Testing  |
