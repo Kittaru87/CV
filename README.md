@@ -30,7 +30,7 @@ One of the managers at my previous job was once asked how she would describe me 
 
 **Takes the initiative**
 
-Once I had an inkling that software engineering was the path I wanted to take, I immediately set about making that happen alongside my day job and freelance work. Not only have I attended an evening web development course as well as undertaken online courses but I've also sat down with a number of friends already in the industry to pair program with and to pick their brains on best practice and what their expectations are for junior developers. I've also helped a couple of my friends with their websites (mostly SEO), which has allowed me more experience with different CMSs, and have started building a website for an ex-colleague for her new business. Learning by doing will compliment what I learn at Makers and I look foward to building up my own portfolio.
+Once I had an inkling that software engineering was the path I wanted to take, I immediately set about making that happen alongside my day job and freelance work. Not only have I attended an evening web development course as well as undertaken online courses but I've also sat down with a number of friends already in the industry to pair program with and to pick their brains on best practice and what their expectations are for junior developers. I've also helped a couple of my friends with their websites (mostly SEO), which has allowed me more experience with different CMSs, and have started building a website for an ex-colleague for her new business via Wordpress. Learning by doing will compliment what I learn at Makers and I look forward to building up my own portfolio.
 
 ## Projects
 | Project       | Details       | Technologies  | Testing  |
@@ -60,7 +60,8 @@ All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 #### Durham University (2005 to 2008)
 
 - Combined Honours in Arts (Classics and English): BA(Hons) 2:1
-- Elective modules in Ancient History and Ancient Egyptian Hieroglypics
+- Elective module in Ancient History
+- Evening classes in Ancient Egyptian Hieroglypics
 
 #### George Abbot Sixth Form College (2003 to 2005)
 
@@ -99,7 +100,7 @@ All training requested and undertaken once I had identified gaps in our team's k
 
 ## Hobbies
 
-Sci-fi nut, gamer since the days of DOS, in practice a worse piano player than my years of playing suggest, amateur ceramicist, cat whisperer, and destroyer of potted plants.
+Sci-fi nut, gamer since the days of DOS, in practice a worse piano player than my years of playing suggest, amateur ceramicist, cat whisperer, and destroyer of potted plants (although I'm working on that one).
 
 ## Contact
 * GitHub: [Kittaru87](https://github.com/Kittaru87)
