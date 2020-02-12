@@ -53,7 +53,7 @@ All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 
 - 12-week bi-weekly evening Web Development Foundation
 - HTML5, CSS3, JavaScript
-- Git and GitHub
+- Git and GitHub, Fork
 - Responsive and Accessible development
 - Project work (including [JavaSpider](https://github.com/Kittaru87/JavaSpider), the first team project I worked on) and pair programming
 
