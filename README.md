@@ -30,7 +30,7 @@ One of the managers at my previous job was once asked how she would describe me 
 
 **Takes the initiative**
 
-Once I had an inkling that software engineering was the path I wanted to take, I immediately set about making that happen alongside my day job and freelance work. Not only have I attended an evening web development course as well as undertaken online courses but I've also sat down with a number of friends already in the industry to pair programme with and to pick their brains on best practice and what their expectations are for junior developers. I've also helped a couple of my friends with their websites (mostly SEO), which has allowed me more experience with different CMSs, and have started building a website for an ex-colleague for her new business. Learning by doing will compliment what I learn at Makers and look foward to building up my own portfolio.
+Once I had an inkling that software engineering was the path I wanted to take, I immediately set about making that happen alongside my day job and freelance work. Not only have I attended an evening web development course as well as undertaken online courses but I've also sat down with a number of friends already in the industry to pair program with and to pick their brains on best practice and what their expectations are for junior developers. I've also helped a couple of my friends with their websites (mostly SEO), which has allowed me more experience with different CMSs, and have started building a website for an ex-colleague for her new business. Learning by doing will compliment what I learn at Makers and look foward to building up my own portfolio.
 
 ## Projects
 | Project       | Details       | Technologies  | Testing  |
