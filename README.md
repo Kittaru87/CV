@@ -16,13 +16,20 @@ I look forward to taking the skills I already have and those I will learn and ap
 
 ## Skills
 
-- **Adaptable**
-- **Attention to detail**
+**Adaptable**
+
+**Attention to detail**
+
 It is important to be able to spot mistakes, especially when it comes to code. My previous roles have always required an eye for detail and the ability to quickly pick up on spelling, grammatical or formatting errors. As sub-editor to 2 trade magazines this means not only proofing the documents but also rewriting large swathes of text, including reordering or compacting articles in order to better fit the page. This is a skill I feel translates well into the world of programming, not only for debugging but also refactoring of code.
-- **Efficient**
-One of the managers at my previous job was once asked how she would describe me in one word and turns out that word was 'effecient'. I have been able to take on numerous roles at one time (SEO, digital content, website management, administrative support) because of my ability to take a tasks 
-- **Fast learner**
+
+**Efficient**
+
+One of the managers at my previous job was once asked how she would describe me in one word and turns out that word was 'efficient'. I have been able to take on numerous roles at one time (SEO, digital content, website management, administrative support) because of my ability to take a tasks 
+
+**Fast learner**
+
 - **Takes the initiative**
+
 
 #### Another Skill
 
