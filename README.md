@@ -1,13 +1,14 @@
 ## Sophia Bell
 
-**Junior Fullstack Web Developer in training**
+**Junior Full Stack Web Developer in training**
 
-intro
+Current student at the inimitable Makers Academy, following a nine year career working as webmaster then digital content manager for a finance charity. I am looking for new challenges that allow me to expand my programming knowledge and skills.
 
 ## Profile
 
-
-Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+Changing careers is not an easy thing to do. However you can spend so long in a role that tasks become predictable and your job no longer excites you. I needed a change of tact. Then I found programming! What started as a couple of online courses in my spare time led to a 3 month evening course, which then led to Makers, a 16-week intensive dev bootcamp. And I am loving every second of it.
+My professional training includes pair programming and test-driven development (TDD), and incorporates front- and back-end development. It is both fast paced and constantly evolving, conditions that I thrive in - the more there is to learn, the better.
+I look forward to taking the skills I already have and those I will learn and applying them any project that comes my way. Most of all I look forward to working with like-minded people who feel passionate about coding and with whom I can take the next step in my career.
 
 **Tech Skills** : Ruby, Rails, HTML, CSS, Javascript
 
@@ -20,6 +21,12 @@ Consider skills relevent to software development. Then consider your best skills
 - Experience
 - Achievements
 - Evidence
+
+- Adaptable
+- Attention to detail
+- Efficient 
+- Fast learner
+- Takes the initiative
 
 #### Another Skill
 
@@ -60,6 +67,12 @@ All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 - Combined Honours in Arts (Classics and English): BA(Hons) 2:1
 - Elective modules in Ancient History and Ancient Egyptian Hieroglypics
 
+#### George Abbot Sixth Form College (2003 to 2005)
+
+- 3 A-levels: English, History, Latin
+- 1 AS-level: Physics
+- Elected Head Girl by the student body and facility
+
 #### Training courses
 All training requested and undertaken once I had identified gaps in our team's knowledge and expertise. This contributed to our team's effeciency and success as I was able to take these roles in-house.
 - Drupal 7 CMS training
@@ -71,7 +84,7 @@ All training requested and undertaken once I had identified gaps in our team's k
 ## Experience
 
 **The Low Incomes Tax Reform Group** (2012 to 2020)    
-*Digital Content Manager*  
+*Digital Content Manager*; *Webmaster*  
 - As Digital Content lead, website manager and SEO lead I helped increase our website traffic from roughly 100,000 visitors a year to 5.5 million over my tenure. This included overseeing an extensive website migration, setting up and managing project sites, devising yearly project and marketing plans, and being the key liaison between the team and our developers.
 - Experienced using Drupal CMS, ExpressionEngine, Sharepoint and ClickDimensions.
 
