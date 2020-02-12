@@ -18,17 +18,19 @@ I look forward to taking the skills I already have and those I will learn and ap
 
 **Adaptable**
 
+I've always enjoyed taking on new things, and have often had to adapt my current position in order to accomodate extra work. A few years back we undertook a large website migration to a new Drupal CMS which I was co-ordinating alongside the old and new developers. Unfortunately for us the old developers went into administration as this process was happening and despite the promise that all our archived data was safe, it turned out not to be the case. I moved to a new system that threw up over 20,000 errors when I ran it through Webmaster tools (Google Search Console). Not only did I have to learn how to be administrator to a new CMS but I had to debug and relink our entire site while trying to hunt down an entire library of documents. 
+
 **Attention to detail**
 
 It is important to be able to spot mistakes, especially when it comes to code. My previous roles have always required an eye for detail and the ability to quickly pick up on spelling, grammatical or formatting errors. As sub-editor to 2 trade magazines this means not only proofing the documents but also rewriting large swathes of text, including reordering or compacting articles in order to better fit the page. This is a skill I feel translates well into the world of programming, not only for debugging but also refactoring of code.
 
 **Efficient**
 
-One of the managers at my previous job was once asked how she would describe me in one word and turns out that word was 'efficient'. I have been able to take on numerous roles at one time (SEO, digital content, website management, administrative support) because of my ability to take a tasks 
+One of the managers at my previous job was once asked how she would describe me in one word and turns out that word was 'efficient'. I am able to take on numerous roles at one time (SEO, digital content, website management, administrative support) because of my ability to find the simplest, most productive way of achieving the my goals.
 
 **Fast learner**
 
-- **Takes the initiative**
+**Takes the initiative**
 
 
 #### Another Skill
