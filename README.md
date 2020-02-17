@@ -61,7 +61,7 @@ All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 
 - Combined Honours in Arts (Classics and English): BA(Hons) 2:1
 - Elective module in Ancient History
-- Evening classes in Ancient Egyptian Hieroglypics
+- Evening classes in Ancient Egyptian Hieroglyphics
 
 #### George Abbot Sixth Form College (2003 to 2005)
 
