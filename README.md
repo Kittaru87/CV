@@ -12,8 +12,9 @@ My professional training includes pair programming and test-driven development (
 
 I look forward to taking the skills I already have and those I will learn and applying them to any project that comes my way. Most of all I look forward to working with like-minded people who feel passionate about coding and with whom I can take the next step in my career.
 
-**Tech Skills** : Ruby, Rails, HTML, CSS, Javascript, SQL, NodeJS
-**Testing**: RSpec, Jasmine
+**Tech Skills** : Ruby, Rails, Javascript, HTML, CSS, SQL, Postgres, NodeJS
+**Testing**: RSpec, Jasmine, Capybara
+**Linting**: Rubocop, ESlint, Simplecov
 
 ## Skills
 
@@ -41,14 +42,17 @@ Once I had an inkling that software engineering was the path I wanted to take, I
 |               |               |               |          |
 
 All projects can be found on my [GitHub account](https://github.com/Kittaru87)
+
 ## Education
 
 #### Makers Academy (January 2020 - May 2020)
 
-- OOP, TDD, MVC, DDD
+- Test driven development (TDD) using a variety of frameworks, including RSpec, Jasmine and Capybara
+- 
+- OOP, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Pair programming, remote project work, 
 
 #### 23 Code Street (May 2019 - Aug 2019)
 
