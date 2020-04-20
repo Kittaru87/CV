@@ -12,7 +12,7 @@ My professional training includes pair programming and test-driven development (
 
 I look forward to taking the skills I already have and those I will learn and applying them to any project that comes my way. Most of all I look forward to working with like-minded people who feel passionate about coding and with whom I can take the next step in my career.
 
-**Tech Skills** : Ruby, Rails, Javascript, HTML, CSS, SQL, Postgres, NodeJS
+**Tech Skills** : Ruby, Rails, Javascript, JQuery, HTML, CSS, SQL, Postgres, NodeJS
 
 **Testing**: RSpec, Jasmine, Capybara
 
