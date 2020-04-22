@@ -39,7 +39,7 @@ Once I had an inkling that software engineering was the path I wanted to take, I
 ## Projects
 | Project       | Details       | Technologies  | Testing  |
 | ------------- |:-------------:| :------------:|---------:|
-|               |               |               |          |
+| [Acebook](https://github.com/Kittaru87/acebook-theUndefinedMethod) | Team project to build a clone of Facebook | Ruby, Rails, JavaScript, jQuery, React, Postgres, Bootstrap | Rspec, Capybara, Simplecov, Coveralls, CodeClimate |
 |               |               |               |          |
 |               |               |               |          |
 
@@ -92,7 +92,7 @@ All training requested and undertaken once I had identified gaps in our team's k
 - Experienced using Drupal CMS, ExpressionEngine, Sharepoint and ClickDimensions.
 
 **The Chartered Institute of Taxation** (2010 to 2012)   
-*Technical Team Adminstrator*  
+*Technical Team Administrator*  
 - Website management of 3 separate organisations' Technical areas, including proofing and formatting content, database management (Citrix and Access) and social media output.
 
 ## Freelance
