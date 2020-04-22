@@ -50,16 +50,15 @@ All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 #### Makers Academy (January 2020 - May 2020)
 
 - Test driven development (TDD) using a variety of frameworks, including RSpec, Jasmine and Capybara
-- 
 - OOP, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- Pair programming, remote project work, 
+- Ruby, Rails, JavaScript, jQuery
+- Pair programming, remote project work 
 
 #### 23 Code Street (May 2019 - Aug 2019)
 
 - 12-week bi-weekly evening Web Development Foundation
-- HTML5, CSS3, JavaScript
+- JavaScript, HTML5, CSS3
 - Git and GitHub, Fork
 - Responsive and Accessible development
 - Project work (including [JavaSpider](https://github.com/Kittaru87/JavaSpider), the first team project I worked on) and pair programming
