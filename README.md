@@ -1,8 +1,8 @@
 ## Sophia Bell
 
-**Junior Full Stack Web Developer in training**
+**Junior Full Stack Web Developer**
 
-Current student at the inimitable Makers Academy, following a nine year career working as webmaster then digital content manager for a finance charity. I am looking for new challenges that allow me to expand my programming knowledge and skills.
+Graduate of the inimitable Makers Academy, following a nine year career working as webmaster then digital content manager for a finance professional body. I am looking for new challenges that allow me to expand my programming knowledge and skills.
 
 ## Profile
 
@@ -12,7 +12,7 @@ My professional training includes pair programming and test-driven development (
 
 I look forward to taking the skills I already have and those I will learn and applying them to any project that comes my way. Most of all I look forward to working with like-minded people who feel passionate about coding and with whom I can take the next step in my career.
 
-**Tech Skills** : Ruby, Rails, Javascript, JQuery, HTML, CSS, SQL, Postgres, NodeJS
+**Tech Skills** : Ruby, Rails, Javascript, React, JQuery, HTML, CSS, SQL, Postgres, NodeJS
 
 **Testing**: RSpec, Jasmine, Capybara
 
@@ -22,7 +22,7 @@ I look forward to taking the skills I already have and those I will learn and ap
 
 **Adaptable and thrives under pressure**
 
-I've always enjoyed taking on new things, and have often had to adapt my current position in order to accomodate extra work. A few years back we undertook a large website migration to a new Drupal CMS which I was co-ordinating alongside the old and new developers. Unfortunately for us the old developers went into administration as this process was happening and despite the promise that all our archived data was safe, it turned out not to be the case. I moved to a new system that threw up over 20,000 errors when I ran it through Webmaster tools (Google Search Console). Not only did I have to learn how to be administrator to a new CMS but I had to debug and relink our entire site while trying to hunt down an entire library of documents. I did it and our website has since gone on to be the most successful it has ever been.
+I've always enjoyed taking on new things, and have often had to adapt my current position in order to accomodate extra work. A few years back we undertook a large website migration to a new Drupal CMS which I was co-ordinating alongside the old and new developers. Unfortunately for us the old developers went into administration as this process was happening and despite the promise that all our archived data was safe, it turned out not to be the case. I moved to a new system that threw up over 20,000 errors when I ran it through Google Search Console. Not only did I have to learn how to be administrator to a new CMS but I had to debug and relink our entire site while trying to hunt down an entire library of documents. I did it and our website has since gone on to be the most successful it has ever been.
 
 **Attention to detail**
 
@@ -39,9 +39,10 @@ Once I had an inkling that software engineering was the path I wanted to take, I
 ## Projects
 | Project       | Details       | Technologies  | Testing  |
 | ------------- |:-------------:| :------------:|---------:|
-| [Acebook](https://github.com/Kittaru87/acebook-theUndefinedMethod) | Team project to build a clone of Facebook | Ruby, Rails, JavaScript, jQuery, React, Postgres, Bootstrap | Rspec, Capybara, Simplecov, Coveralls, CodeClimate |
-|               |               |               |          |
-|               |               |               |          |
+| [MixTape](https://github.com/KG700/mix-tape)| Makers final project to build a product that utilised the Spotify API to mix and produce playlists with your friends | React, Rails, JavaScript, Ruby, PostgreSQL | Rspec, Capybara, Simplecov, ESlint |
+| [Acebook](https://github.com/Kittaru87/acebook-theUndefinedMethod) | Team project to build a clone of Facebook | Ruby, Rails, JavaScript, jQuery, React, PostgreSQL, Bootstrap | Rspec, Capybara, Simplecov, Coveralls, CodeClimate |
+| [Chitter](https://github.com/Kittaru87/chitter-challenge) | Individual project to build a clone of Twitter | Ruby, Sinatra, PostgreSQL | Capybara, Rspec, Rubocop |
+| [Bank Tech Test](https://github.com/Kittaru87/bank-tech-test) | To write a program that can be used by irb to simulate a user's interaction with their bank account | Ruby | Rspec, Rubocop, Simplecov |
 
 All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 
@@ -49,19 +50,22 @@ All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 
 #### Makers Academy (January 2020 - May 2020)
 
-- Test driven development (TDD) using a variety of frameworks, including RSpec, Jasmine and Capybara
-- OOP, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, jQuery
-- Pair programming, remote project work 
+Highly selective 16-week immersive course that emphasises test-driven software development and agile methodologies. As a student I was encouraged to take ownership of my learning process, both as an individual and part of a team, producing programs in a variety of languages and frameworks. This included:
+
+- Collaborating and learning through pair programming and peer-driven code reviews
+- Writing clear, simple code by following TDD and OOP design patterns  
+- Daily stand-ups, sprint planning and evening retros
+- Project work using GitHub as a version control tool (largely done remotely)
+- Understanding project requirements by creating user stories, domain models and breaking features down into smaller, manageable tasks
 
 #### 23 Code Street (May 2019 - Aug 2019)
 
-- 12-week bi-weekly evening Web Development Foundation
+A 12-week bi-weekly Web Development Foundation course.
+
 - JavaScript, HTML5, CSS3
-- Git and GitHub, Fork
-- Responsive and Accessible development
-- Project work (including [JavaSpider](https://github.com/Kittaru87/JavaSpider), the first team project I worked on) and pair programming
+- Version control via GitHub and Fork
+- Responsive and accessible development and design principles
+- Group work and pair programming
 
 #### Durham University (2005 to 2008)
 
@@ -73,7 +77,7 @@ All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 
 - 3 A-levels: English, History, Latin
 - 1 AS-level: Physics
-- Elected Head Girl by the student body and facility
+- Elected Head Girl by the student body and faculty
 
 #### Training courses
 All training requested and undertaken once I had identified gaps in our team's knowledge and expertise. This contributed to our team's effeciency and success as I was able to take these roles in-house.
