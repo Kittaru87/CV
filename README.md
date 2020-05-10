@@ -39,7 +39,7 @@ Once I had an inkling that software engineering was the path I wanted to take, I
 ## Projects
 | Project       | Details       | Technologies  | Testing  |
 | ------------- |:-------------:| :------------:|---------:|
-| [MixTape](https://github.com/KG700/mix-tape)| Makers final project to build a product that utilised the Spotify API to mix and produce playlists with your friends | React, Rails, JavaScript, Ruby, PostgreSQL | Rspec, Capybara, Simplecov, ESlint |
+| [MixTape](https://github.com/KG700/mix-tape)| Makers final project to build an app that utilises the Spotify API to mix and produce playlists with your friends, and play them in-app | React, Rails, JavaScript, Ruby, PostgreSQL | Rspec, Capybara, Simplecov, ESlint |
 | [Acebook](https://github.com/Kittaru87/acebook-theUndefinedMethod) | Team project to build a clone of Facebook | Ruby, Rails, JavaScript, jQuery, React, PostgreSQL, Bootstrap | Rspec, Capybara, Simplecov, Coveralls, CodeClimate |
 | [Chitter](https://github.com/Kittaru87/chitter-challenge) | Individual project to build a clone of Twitter | Ruby, Sinatra, PostgreSQL | Capybara, Rspec, Rubocop |
 | [Bank Tech Test](https://github.com/Kittaru87/bank-tech-test) | To write a program that can be used by irb to simulate a user's interaction with their bank account | Ruby | Rspec, Rubocop, Simplecov |
