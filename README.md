@@ -22,19 +22,19 @@ I look forward to taking the skills I already have and those I will learn and ap
 
 **Adaptable and thrives under pressure**
 
-I've always enjoyed taking on new things, and have often had to adapt my current position in order to accomodate extra work. A few years back we undertook a large website migration to a new Drupal CMS which I was co-ordinating alongside the old and new developers. Unfortunately for us the old developers went into administration as this process was happening and despite the promise that all our archived data was safe, it turned out not to be the case. I moved to a new system that threw up over 20,000 errors when I ran it through Google Search Console. Not only did I have to learn how to be administrator to a new CMS but I had to debug and relink our entire site while trying to hunt down an entire library of documents. I did it and our website has since gone on to be the most successful it has ever been.
+Part of the process of being a Maker is being able to adapt your learning to whatever project, learning tool or pair partner you are working with that week. This was especially the case during our final project. The easy thing to do would have been to pick a subject and framework we were familiar with, however wanting to continue our learning and see how far we could push ourselves, we opted to use two things we had very little experience with, APIs and React. The learning curve was steep as we had less than 2 weeks to completion, but we were able to put together a project that utilises a React frontend and Rails backend to interact with the Spotify API. We continually adapted our design to take into account time constraints and used Agile methodologies thoughout.
+
+**Teamwork**
+
+Project work, by far, has been the most enjoyable aspect of my time at Makers. I work well when bouncing ideas off of other people, enjoy listening to and understanding other people's way of thinking that is different to my own, and ultimately producing something that is an amalgamation of everyone's ideas and efforts. I took part in 3 big projects - cloning Airbnb, cloning Facebook, and then my final project - and I learned something new and exciting in each of those experiences, whether that was how to apply bootstrap, learning how to use React or how not to get mixed up between Rails 5 and Rails 6!
+
+**Takes the initiative**
+
+Once I had an inkling that software engineering was the path I wanted to take, I immediately set about making that happen alongside my day job and freelance work. Not only have I attended an evening web development course as well as undertaken online courses but I've also sat down with a number of friends already in the industry to pair program with and to pick their brains on best practice and what their expectations are for junior developers. Since leaving Makers I've started my own projects, both solo and with other junior developers, in order to continue my learning journey.
 
 **Attention to detail**
 
 It is important to be able to spot mistakes, especially when it comes to code. My previous roles have always required an eye for detail and the ability to quickly pick up on spelling, grammatical or formatting errors. As sub-editor to 2 trade magazines this means not only proofing the documents but also rewriting large swathes of text, including reordering or compacting articles in order to better fit the page. This is a skill I feel translates well into the world of programming, not only for debugging but also refactoring of code.
-
-**Efficient**
-
-One of the managers at my previous job was once asked how she would describe me in one word and turns out that word was 'efficient'. I am able to take on numerous roles at one time (SEO, digital content, website management, administrative support) because of my ability to find the simplest, most productive way of achieving my goals.
-
-**Takes the initiative**
-
-Once I had an inkling that software engineering was the path I wanted to take, I immediately set about making that happen alongside my day job and freelance work. Not only have I attended an evening web development course as well as undertaken online courses but I've also sat down with a number of friends already in the industry to pair program with and to pick their brains on best practice and what their expectations are for junior developers. I've also helped a couple of my friends with their websites (mostly SEO), which has allowed me more experience with different CMSs, and have started building a website for an ex-colleague for her new business via Wordpress. Learning by doing will compliment what I learn at Makers and I look forward to building up my own portfolio.
 
 ## Projects
 | Project       | Details       | Technologies  | Testing  |
@@ -80,7 +80,7 @@ A 12-week bi-weekly Web Development Foundation course.
 - Elected Head Girl by the student body and faculty
 
 #### Training courses
-All training requested and undertaken once I had identified gaps in our team's knowledge and expertise. This contributed to our team's effeciency and success as I was able to take these roles in-house.
+All training requested and undertaken once I had identified gaps in my previous team's knowledge and expertise. This contributed to our team's effeciency and success as I was able to take these roles in-house.
 - Drupal 7 CMS training
 - HTML/CSS Level 1 Programming Course
 - Fast Track Digital Marketing
