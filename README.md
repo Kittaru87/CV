@@ -1,10 +1,12 @@
-## Sophia Bell
+<h1 align="center">Sophia Bell</h1>
 
 **Junior Full Stack Web Developer**
 
 Graduate of the inimitable Makers Academy, following a nine year career working as webmaster then digital content manager for a finance professional body. I am looking for new challenges that allow me to expand my programming knowledge and skills.
 
-## Profile
+[Profile](#profile) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Training courses](#training-courses) | [Work experience](#work-experience) | [Freelance](#freelance) | [Hobbies](#hobbies) | [Contact](#contact)
+
+<h2>Profile</h2>
 
 Changing careers is not an easy thing to do. My entire career has centered around website management and digital content, including working with a Drupal CMS, Citrix, Access, Sharepoint and Indesign, and I have had a lot of success in my previous role - as digital content and SEO lead, I helped increase website traffic from roughly 100,000 visitors a year to 5.5 million over my tenur. I have also taken on freelance work to supplement my learning and knowledge-base, including the development of a WordPress site for a small business and sub-editor for a couple of trade magazines. However, it was while I was attending 23 Code Street, a 3-month evening web development course, that I really fell in love with programming. This led to a number of online courses and then finally to Makers, a 16-week intensive dev bootcamp. And I am loving every second of it.
 
@@ -18,7 +20,7 @@ I look forward to taking the skills I already have and those I will learn and ap
 
 **Linting**: Rubocop, ESlint, Simplecov
 
-## Skills
+<h2>Skills</h2>
 
 **Adaptable and thrives under pressure**
 
@@ -36,7 +38,8 @@ Once I had an inkling that software engineering was the path I wanted to take, I
 
 It is important to be able to spot mistakes, especially when it comes to code. My previous roles have always required an eye for detail and the ability to quickly pick up on spelling, grammatical or formatting errors. As sub-editor to 2 trade magazines this means not only proofing the documents but also rewriting large swathes of text, including reordering or compacting articles in order to better fit the page (via Indesign). This is a skill I feel translates well into the world of programming, not only for debugging but also refactoring of code.
 
-## Projects
+<h2>Projects</h2>
+
 | Project       | Details       | Technologies  | Testing  |
 | ------------- |:-------------:| :------------:|---------:|
 | [MixTape](https://github.com/KG700/mix-tape)| Makers final project to build an app that utilises the Spotify API to mix and produce playlists with your friends, and play them in-app | React, Rails, JavaScript, Ruby, PostgreSQL | Rspec, Capybara, Simplecov, ESlint |
@@ -46,7 +49,7 @@ It is important to be able to spot mistakes, especially when it comes to code. M
 
 All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 
-## Education
+<h2>Education</h2>
 
 #### [Makers Academy](https://makers.tech/) (January 2020 - May 2020)
 
@@ -79,7 +82,8 @@ A 12-week bi-weekly Web Development Foundation course.
 - 1 AS-level: Physics
 - Elected Head Girl by the student body and faculty
 
-#### Training courses
+<h2>Training courses</h2>
+
 All training requested and undertaken once I had identified gaps in my previous team's knowledge and expertise. This contributed to our team's effeciency and success as I was able to take these roles in-house.
 - Drupal 7 CMS training
 - HTML/CSS Level 1 Programming Course
@@ -87,7 +91,7 @@ All training requested and undertaken once I had identified gaps in my previous 
 - Content Marketing for Web, Mobile and Social Media
 - Google Analytics Advance - Optimising your site training
 
-## Experience
+<h2>Work experience</h2>
 
 **The Low Incomes Tax Reform Group** (2012 to 2020)    
 *Digital Content Manager*; *Webmaster*  
@@ -98,7 +102,7 @@ All training requested and undertaken once I had identified gaps in my previous 
 *Technical Team Administrator*  
 - Website management of 3 separate organisations' Technical areas, including proofing and formatting content, database management (Citrix and Access) and social media output.
 
-## Freelance
+<h2>Freelance</h2>
 
 **Bridal Bus** (2020 to present)    
 *Web developer*
@@ -108,10 +112,12 @@ All training requested and undertaken once I had identified gaps in my previous 
 *Sub-editor*
 - Proofing and copy editing in Indesign
 
-## Hobbies
+<h2>Hobbies</h2>
 
 Sci-fi nut, gamer since the days of DOS, in practice a worse piano player than my years of playing suggest, amateur ceramicist, cat whisperer, and destroyer of potted plants (although I'm working on that one).
 
-## Contact
+<h2>Contact</h2>
+
+* Email: sophbell87@gmail.com
 * GitHub: [Kittaru87](https://github.com/Kittaru87)
 * Blogging site: [Medium](https://medium.com/@sophbell87)
