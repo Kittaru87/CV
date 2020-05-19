@@ -6,9 +6,9 @@ Graduate of the inimitable Makers Academy, following a nine year career working 
 
 ## Profile
 
-Changing careers is not an easy thing to do. My entire career has centered around website management and digital content, including working with a Drupal CMS, Citrix, Access, Sharepoint and Indesign, and I have had a lot of success in my previous role - as digital content and SEO lead, I helped increase website traffic from roughly 100,000 visitors a year to 5.5 million over my tenur. I have also taken on freelance work to supplement my learning and knowledge-base, including the development of a WordPress site for a small business and copy-editor for a couple of trade magazines. However, it was while I was attending 23 Code Street, a 3-month evening web development course, that I really fell in love with programming. This led to a number of online courses and then finally to Makers, a 16-week intensive dev bootcamp. And I am loving every second of it.
+Changing careers is not an easy thing to do. My entire career has centered around website management and digital content, including working with a Drupal CMS, Citrix, Access, Sharepoint and Indesign, and I have had a lot of success in my previous role - as digital content and SEO lead, I helped increase website traffic from roughly 100,000 visitors a year to 5.5 million over my tenur. I have also taken on freelance work to supplement my learning and knowledge-base, including the development of a WordPress site for a small business and sub-editor for a couple of trade magazines. However, it was while I was attending 23 Code Street, a 3-month evening web development course, that I really fell in love with programming. This led to a number of online courses and then finally to Makers, a 16-week intensive dev bootcamp. And I am loving every second of it.
 
-My professional training includes test-driven development (TDD) and object-oriented programming (OOP), and incorporates front and backend development. It was both fast paced and constantly evolving, conditions that I thrive in - the more there is to learn, the better. I have even started a blog, which will help consolidate my learning process while offering an opportunity to write informatively (great practice for code documentation).
+My professional training includes test-driven development (TDD) and object-oriented programming (OOP), and incorporates front and backend development. It was both fast paced and constantly evolving, conditions that I thrive in - the more there is to learn, the better. I have even started a [blog]((https://medium.com/@sophbell87), which will help consolidate my learning process while offering an opportunity to write informatively (great practice for code documentation).
 
 I look forward to taking the skills I already have and those I will learn and applying them to any project that comes my way. Most of all I look forward to working with like-minded people who feel passionate about coding and with whom I can take the next step in my career.
 
@@ -22,7 +22,7 @@ I look forward to taking the skills I already have and those I will learn and ap
 
 **Adaptable and thrives under pressure**
 
-Part of the process of being a Maker is being able to adapt your learning to whatever project, learning tool or pair partner you are working with that week. This was especially the case during our final project. The easy thing to do would have been to pick a subject and framework we were familiar with, however wanting to continue our learning and see how far we could push ourselves, we opted to use two things we had very little experience with, APIs and React. The learning curve was steep as we had less than 2 weeks to completion, but we were able to put together a project that utilises a React frontend and Rails backend to interact with the Spotify API. We continually adapted our design to take into account time constraints and used Agile methodologies thoughout.
+Part of the process of being a Maker is being able to adapt your learning to whatever project, learning tool or pair partner you are working with that week. This was especially the case during our final project, [Mix Tape](https://github.com/KG700/mix-tape). The easy thing to do would have been to pick a subject and framework we were familiar with, however wanting to continue our learning and see how far we could push ourselves, we opted to use two things we had very little experience with, APIs and React. The learning curve was steep as we had less than 2 weeks to completion, but we were able to put together a project that utilises a React frontend and Rails backend to interact with the Spotify API. We continually adapted our design to take into account time constraints and used Agile methodologies thoughout.
 
 **Teamwork**
 
@@ -30,7 +30,7 @@ Project work, by far, has been the most enjoyable aspect of my time at Makers. I
 
 **Takes the initiative**
 
-Once I had an inkling that software engineering was the path I wanted to take, I immediately set about making that happen alongside my day job and freelance work. I attended [23 Code Street's web development course](https://www.23codestreet.com/), started online courses such as Codacademy, and sat down with a number of friends already in the industry to pair program with, picking their brains on best practice and what their expectations are for junior developers (emphasis on enthusiasm, learning and not to play code golf...). Since leaving Makers I've started my own projects, both solo and with other junior developers, in order to continue my learning journey, including a [rails app for helping people exercise indoors](https://github.com/Kittaru87/Innercise). 
+Once I had an inkling that software engineering was the path I wanted to take, I immediately set about making that happen alongside my day job and freelance work. I attended [23 Code Street's web development course](https://www.23codestreet.com/), started online courses such as Codacademy, and sat down with a number of friends already in the industry to pair program with, picking their brains on best practice and what their expectations are for junior developers (emphasis on enthusiasm, learning and not to play code golf...). Since leaving Makers I've started my own projects, both solo and with other junior developers, in order to continue my learning journey, including a [rails app to help people exercise indoors](https://github.com/Kittaru87/Innercise). 
 
 **Attention to detail**
 
@@ -48,7 +48,7 @@ All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 
 ## Education
 
-#### Makers Academy (January 2020 - May 2020)
+#### [Makers Academy](https://makers.tech/) (January 2020 - May 2020)
 
 Highly selective 16-week immersive course that emphasises test-driven software development and agile methodologies. As a student I was encouraged to take ownership of my learning process, both as an individual and part of a team, producing programs in a variety of languages and frameworks. This included:
 
@@ -58,7 +58,7 @@ Highly selective 16-week immersive course that emphasises test-driven software d
 - Project work using GitHub as a version control tool (largely done remotely)
 - Understanding project requirements by creating user stories, domain models and breaking features down into smaller, manageable tasks
 
-#### 23 Code Street (May 2019 - Aug 2019)
+#### [23 Code Street](https://www.23codestreet.com/) (May 2019 - Aug 2019)
 
 A 12-week bi-weekly Web Development Foundation course.
 
