@@ -6,9 +6,9 @@ Graduate of the inimitable Makers Academy, following a nine year career working 
 
 ## Profile
 
-Changing careers is not an easy thing to do. However you can spend so long in a role that tasks become predictable and your job no longer excites you. I needed a change of tack. Then I found programming! What started as a couple of online courses in my spare time led to a 3 month evening course, which then led to Makers, a 16-week intensive dev bootcamp. And I am loving every second of it.
+Changing careers is not an easy thing to do. My entire career has centered around website management and digital content, including working with a Drupal CMS, Citrix, Access, Sharepoint and Indesign, and I have had a lot of success in my previous role - as digital content and SEO lead, I helped increase website traffic from roughly 100,000 visitors a year to 5.5 million over my tenur. I have also taken on freelance work to supplement my learning and knowledge-base, including the development of a WordPress site for a small business and copy-editor for a couple of trade magazines. However, it was while I was attending 23 Code Street, a 3-month evening web development course, that I really fell in love with programming. This led to a number of online courses and then finally to Makers, a 16-week intensive dev bootcamp. And I am loving every second of it.
 
-My professional training includes pair programming and test-driven development (TDD), and incorporates front- and back-end development. It is both fast paced and constantly evolving, conditions that I thrive in - the more there is to learn, the better.
+My professional training includes test-driven development (TDD) and object-oriented programming (OOP), and incorporates front and backend development. It was both fast paced and constantly evolving, conditions that I thrive in - the more there is to learn, the better. I have even started a blog, which will help consolidate my learning process while offering an opportunity to write informatively (great practice for code documentation).
 
 I look forward to taking the skills I already have and those I will learn and applying them to any project that comes my way. Most of all I look forward to working with like-minded people who feel passionate about coding and with whom I can take the next step in my career.
 
@@ -26,15 +26,15 @@ Part of the process of being a Maker is being able to adapt your learning to wha
 
 **Teamwork**
 
-Project work, by far, has been the most enjoyable aspect of my time at Makers. I work well when bouncing ideas off of other people, enjoy listening to and understanding other people's way of thinking that is different to my own, and ultimately producing something that is an amalgamation of everyone's ideas and efforts. I took part in 3 big projects - cloning Airbnb, cloning Facebook, and then my final project - and I learned something new and exciting in each of those experiences, whether that was how to apply bootstrap, learning how to use React or how not to get mixed up between Rails 5 and Rails 6!
+Project work, by far, has been the most enjoyable aspect of my time at Makers. I work well when bouncing ideas off of other people, something I was able to do quite a bit of in my previous role as digital lead for LITRG. While at LITRG I worked through 2 large website migrations with 2 separate teams of developers, and it gave me the opportunity to experience Agile work processes from the client side. Setting realisitic goals while still maintaining creativity was the order of the day and we were able to produce 2 successful websites.
 
 **Takes the initiative**
 
-Once I had an inkling that software engineering was the path I wanted to take, I immediately set about making that happen alongside my day job and freelance work. Not only have I attended an evening web development course as well as undertaken online courses but I've also sat down with a number of friends already in the industry to pair program with and to pick their brains on best practice and what their expectations are for junior developers. Since leaving Makers I've started my own projects, both solo and with other junior developers, in order to continue my learning journey.
+Once I had an inkling that software engineering was the path I wanted to take, I immediately set about making that happen alongside my day job and freelance work. I attended [23 Code Street's web development course](https://www.23codestreet.com/), started online courses such as Codacademy, and sat down with a number of friends already in the industry to pair program with, picking their brains on best practice and what their expectations are for junior developers (emphasis on enthusiasm, learning and not to play code golf...). Since leaving Makers I've started my own projects, both solo and with other junior developers, in order to continue my learning journey, including a [rails app for helping people exercise indoors](https://github.com/Kittaru87/Innercise). 
 
 **Attention to detail**
 
-It is important to be able to spot mistakes, especially when it comes to code. My previous roles have always required an eye for detail and the ability to quickly pick up on spelling, grammatical or formatting errors. As sub-editor to 2 trade magazines this means not only proofing the documents but also rewriting large swathes of text, including reordering or compacting articles in order to better fit the page. This is a skill I feel translates well into the world of programming, not only for debugging but also refactoring of code.
+It is important to be able to spot mistakes, especially when it comes to code. My previous roles have always required an eye for detail and the ability to quickly pick up on spelling, grammatical or formatting errors. As sub-editor to 2 trade magazines this means not only proofing the documents but also rewriting large swathes of text, including reordering or compacting articles in order to better fit the page (via Indesign). This is a skill I feel translates well into the world of programming, not only for debugging but also refactoring of code.
 
 ## Projects
 | Project       | Details       | Technologies  | Testing  |
@@ -100,13 +100,13 @@ All training requested and undertaken once I had identified gaps in my previous 
 
 ## Freelance
 
-**Leasing Life/Motor Finance magazines** (2016 to present)    
-*Sub-editor*
-- Proofing and copy editing in Indesign
-
 **Bridal Bus** (2020 to present)    
 *Web developer*
 - I recently started building a website for a new business, Bridal Bus, using Wordpress. This project is still in its infancy but I am aiming to help quickly set the website up then add bespoke features using the knowledge I have gained from both my Web Development Foundation and at Makers. 
+
+**Leasing Life/Motor Finance magazines** (2016 to present)    
+*Sub-editor*
+- Proofing and copy editing in Indesign
 
 ## Hobbies
 
