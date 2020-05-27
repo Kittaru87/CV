@@ -8,6 +8,18 @@ Graduate of the inimitable Makers Academy, following a nine year career working 
 <a href="https://medium.com/@sophbell87"><img src="https://camo.githubusercontent.com/fb4865eefe449caf99147ee43f405f5c60533b82/687474703a2f2f7777772e7765626d6173746f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30382f4d656469756d2d4170702d49636f6e2d323031372e706e67" alt="medium" height="42" width="42" hspace="30" data-canonical-src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png"></a>
 <a href="www.linkedin.com/in/sophia-bell-1a945a2b/"><img src="https://camo.githubusercontent.com/48a30c956b0affacc0bb4c93c3f04151ed015f0e/68747470733a2f2f7777772e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f667265652d736f6369616c2d69636f6e732f36372f6c696e6b6564696e5f636972636c655f636f6c6f722d3531322e706e67" alt="linkedin" height="42" width="42" hspace="30" data-canonical-src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png"></a>
 </p>
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#profile">Profile</a> |
+  <a href="#skills">Skills</a> |
+  <a href="#projects">Projects</a> |
+  <a href="#education">Education</a> |
+  <a href="#training-courses">Training courses</a> |
+  <a href="#work-experience">Work experience</a> |
+  <a href="#freelance">Freelance</a> |
+  <a href="#hobbies">Hobbies</a> |
+  <a href="#contact">Contact</a>
+</p>
 
 [Profile](#profile) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Training courses](#training-courses) | [Work experience](#work-experience) | [Freelance](#freelance) | [Hobbies](#hobbies) | [Contact](#contact)
 
