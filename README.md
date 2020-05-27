@@ -4,7 +4,7 @@
 
 Graduate of the inimitable Makers Academy, following a nine year career working as webmaster then digital content manager for a finance professional body. I am looking for new challenges that allow me to expand my programming knowledge and skills.
 
-<a href="https://medium.com/@sophbell87"><img srx="https://camo.githubusercontent.com/fb4865eefe449caf99147ee43f405f5c60533b82/687474703a2f2f7777772e7765626d6173746f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30382f4d656469756d2d4170702d49636f6e2d323031372e706e67" alt="medium" height="42" width="42" data-canonical-src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png"></a> 
+<a href="https://medium.com/@sophbell87"><img src="https://camo.githubusercontent.com/fb4865eefe449caf99147ee43f405f5c60533b82/687474703a2f2f7777772e7765626d6173746f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30382f4d656469756d2d4170702d49636f6e2d323031372e706e67" alt="medium" height="42" width="42" data-canonical-src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png"></a> 
 
 [Profile](#profile) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Training courses](#training-courses) | [Work experience](#work-experience) | [Freelance](#freelance) | [Hobbies](#hobbies) | [Contact](#contact)
 
