@@ -1,6 +1,6 @@
 <h1 align="center">Sophia Bell</h1>
 
-**Junior Full Stack Web Developer**
+**Junior Full Stack Software Developer**
 
 Graduate of the inimitable Makers Academy, following a nine year career working as webmaster then digital content manager for a finance professional body. I am looking for new challenges that allow me to expand my programming knowledge and skills.
 
