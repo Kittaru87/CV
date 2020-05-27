@@ -9,7 +9,7 @@ Graduate of the inimitable Makers Academy, following a nine year career working 
 <a href="www.linkedin.com/in/sophia-bell-1a945a2b/"><img src="https://camo.githubusercontent.com/48a30c956b0affacc0bb4c93c3f04151ed015f0e/68747470733a2f2f7777772e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f667265652d736f6369616c2d69636f6e732f36372f6c696e6b6564696e5f636972636c655f636f6c6f722d3531322e706e67" alt="linkedin" height="42" width="42" hspace="30" data-canonical-src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png"></a>
 </p>
 <p align="center">
-  <b>Some Links:</b><br>
+  <b></b>
   <a href="#profile">Profile</a> |
   <a href="#skills">Skills</a> |
   <a href="#projects">Projects</a> |
@@ -21,8 +21,6 @@ Graduate of the inimitable Makers Academy, following a nine year career working 
   <a href="#contact">Contact</a>
 </p>
 
-[Profile](#profile) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Training courses](#training-courses) | [Work experience](#work-experience) | [Freelance](#freelance) | [Hobbies](#hobbies) | [Contact](#contact)
-
 <h2>Profile</h2>
 
 Changing careers is not an easy thing to do. My entire career has centered around website management and digital content, including working with a Drupal CMS, Citrix, Access, Sharepoint and Indesign, and I have had a lot of success in my previous role - as digital content and SEO lead, I helped increase website traffic from roughly 100,000 visitors a year to 5.5 million over my tenur, directly contributing to the team winning 'Best Specialist Team in a public or not-for-profit organisation' at the Taxation Awards 2020. I have also taken on freelance work to supplement my learning and knowledge-base, including the development of a WordPress site for a small business and sub-editor for a couple of trade magazines. However, it was while I was attending [23 Code Street](https://www.23codestreet.com/), a 3-month evening web development course, that I really fell in love with programming. This led to a number of online courses and then finally to [Makers](https://makers.tech/), a 16-week intensive dev bootcamp. And I am loving every second of it.
@@ -31,7 +29,7 @@ My professional training includes test-driven development (TDD) and object-orien
 
 I look forward to taking the skills I already have and those I will learn and applying them to any project that comes my way. Most of all I look forward to working with like-minded people who feel passionate about coding and with whom I can take the next step in my career.
 
-**Tech Skills** : Ruby, Rails, Javascript, React, JQuery, HTML, CSS, SQL, Postgres, NodeJS
+**Tech Skills** : Ruby, Rails, Javascript, React, JQuery, HTML, CSS, SQL, PostgreSQL, NodeJS
 
 **Testing**: RSpec, Jasmine, Capybara
 
@@ -60,6 +58,7 @@ It is important to be able to spot mistakes, especially when it comes to code. M
 | Project       | Details       | Technologies  | Testing  |
 | ------------- |:-------------:| :------------:|---------:|
 | [Mix Tape](https://github.com/KG700/mix-tape)| Makers final project to build an app that utilises the Spotify API to mix and produce playlists with your friends, and play them in-app | React, Rails, JavaScript, Ruby, PostgreSQL | Rspec, Capybara, Simplecov, ESlint |
+| [Innercise](https://github.com/Kittaru87/innercise) | Current project to create an app to help people more effectively exercise indoors | Ruby, Rails, PostgreSQL, Bootstrap | Rspec, Capybara, Simplecov, Coveralls |
 | [Acebook](https://github.com/Kittaru87/acebook-theUndefinedMethod) | Team project to build a clone of Facebook | Ruby, Rails, JavaScript, jQuery, React, PostgreSQL, Bootstrap | Rspec, Capybara, Simplecov, Coveralls, CodeClimate |
 | [Chitter](https://github.com/Kittaru87/chitter-challenge) | Individual project to build a clone of Twitter | Ruby, Sinatra, PostgreSQL | Capybara, Rspec, Rubocop |
 | [Bank Tech Test](https://github.com/Kittaru87/bank-tech-test) | To write a program that can be used by irb to simulate a user's interaction with their bank account | Ruby | Rspec, Rubocop, Simplecov |
