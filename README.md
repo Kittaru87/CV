@@ -120,7 +120,7 @@ All training requested and undertaken once I had identified gaps in my previous 
 
 <h2>Freelance</h2>
 
-**Thirteen Months** (2020 to present)
+**Thirteen Months** (2020 to present)    
 *Web developer*
 - Styling and troubleshooting template issues on a Shopify website. Shopify uses Liquid, a template language created by Shopify and written in Ruby.
 
