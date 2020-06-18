@@ -49,21 +49,22 @@ All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 
 <h2>Skills</h2>
 
-**Adaptable and thrives under pressure**
-
+<details>
+<summary><strong>Adaptable and thrives under pressure</strong></summary>
 Part of the process of being a Maker is being able to adapt your learning to whatever project, learning tool or pair partner you are working with that week. This was especially the case during our final project, [Mix Tape](https://github.com/KG700/mix-tape). The easy thing to do would have been to pick a subject and framework we were familiar with, however wanting to continue our learning and see how far we could push ourselves, we opted to use two things we had very little experience with, APIs and React. The learning curve was steep as we had less than 2 weeks to completion, but we were able to put together a project that utilises a React frontend and Rails backend to interact with the Spotify API. We continually adapted our design to take into account time constraints and used Agile methodologies thoughout.
-
-**Teamwork**
-
+</details>
+<details>
+<summary><strong>Teamwork</strong></summary>
 Project work, by far, has been the most enjoyable aspect of my time at Makers. I work well when bouncing ideas off of other people, something I was able to do quite a bit of in my previous role as digital lead for LITRG. While at LITRG I worked through 2 large website migrations with 2 separate teams of developers, and it gave me the opportunity to experience Agile work processes from the client side. Setting realisitic goals while still maintaining creativity was the order of the day and we were able to produce 2 successful websites.
-
-**Takes the initiative**
-
+</details>
+<details>
+<summary><strong>Takes the initiative</strong></summary>
 Once I had an inkling that software engineering was the path I wanted to take, I immediately set about making that happen alongside my day job and freelance work. I attended [23 Code Street's web development course](https://www.23codestreet.com/), started online courses such as Codacademy, and sat down with a number of friends already in the industry to pair program with, picking their brains on best practice and what their expectations are for junior developers (emphasis on enthusiasm, learning and not to play code golf...). Since leaving Makers I've started my own projects, both solo and with other junior developers, in order to continue my learning journey, including a [rails app to help people exercise indoors](https://github.com/Kittaru87/Innercise). 
-
-**Attention to detail**
-
+</details>
+<details>
+<summary><strong>Attention to detail</strong></summary>
 It is important to be able to spot mistakes, especially when it comes to code. My previous roles have always required an eye for detail and the ability to quickly pick up on spelling, grammatical or formatting errors. As sub-editor to 2 trade magazines this means not only proofing the documents but also rewriting large swathes of text, including reordering or compacting articles in order to better fit the page (via Indesign). This is a skill I feel translates well into the world of programming, not only for debugging but also refactoring of code.
+</details>
 
 <h2>Education</h2>
 
@@ -86,17 +87,19 @@ A 12-week bi-weekly Web Development Foundation course.
 - Responsive and accessible development and design principles
 - Group work and pair programming
 
-#### Durham University (2005 to 2008)
 
-- Combined Honours in Arts (Classics and English): BA(Hons) 2:1
-- Elective module in Ancient History
-- Evening classes in Ancient Egyptian Hieroglyphics
-
-#### George Abbot Sixth Form College (2003 to 2005)
-
-- 3 A-levels: English, History, Latin
-- 1 AS-level: Physics
-- Elected Head Girl by the student body and faculty
+<details>
+<summary><strong>Durham University (2005 - 2008)</strong></summary> 
+<ul><li>Combined Honours in Arts (Classics and English): BA(Hons) 2:1</li>
+<li>Elective module in Ancient History</li>
+<li>Evening classes in Ancient Egyptian Hieroglyphics</li></ul>
+</details>
+<details>
+<summary><strong>George Abbot Sixth Form College (2003 - 2005) </strong></summary> 
+<ul><li>3 A-levels: English, History, Latin</li>
+<li>1 AS-level: Physics</li>
+<li>Elected Head Girl by the student body and faculty</li></ul>
+</details>
 
 <h2>Training courses</h2>
 
@@ -109,43 +112,48 @@ All training requested and undertaken once I had identified gaps in my previous 
 
 <h2>Work experience</h2>
 
-**The Low Incomes Tax Reform Group** (2012 to 2020)    
-*Digital Content Manager*; *Webmaster*  
-- As Digital Content lead, website manager and SEO lead I helped increase our website traffic from roughly 100,000 visitors a year to 5.5 million over my tenure. This included overseeing an extensive website migration, setting up and managing project sites, devising yearly project and marketing plans, and being the key liaison between the team and our developers.
-- Experienced using Drupal CMS, ExpressionEngine, Sharepoint and ClickDimensions.
-
-**The Chartered Institute of Taxation** (2010 to 2012)   
-*Technical Team Administrator*  
-- Website management of 3 separate organisations' Technical areas, including proofing and formatting content, database management (Citrix and Access) and social media output.
-
-**Constellation** (2010 to 2010)
-*Customer Service Executive*
-- Client portfolio management involving specialised customer care.
-- Preparation of client and financial reports, including trend identification.
-- Logistics and supply chain problem solving.
-- Management of Citrix database.
-
-**NHS Continuing Care, NHS Surrey PCT** (2008 - 2009)
-*Placements Officer*
-
-Responsible for sourcing care for elderly or disabled patients on an individual basis.
-- Intensive liaison between hospital staff, relatives, agencies and nursing homes.
-- Management of database, containing sensitive and confidential information.
-- Administrative and IT support, involving extensive use of Microsoft Office.
+<details>
+<summary><strong>Digital Content Manager/Webmaster (2012 - 2020)</strong></summary> 
+<strong>The Low Incomes Tax Reform Group</strong>
+<ul><li>As Digital Content lead, website manager and SEO lead I helped increase our website traffic from roughly 100,000 visitors a year to 5.5 million over my tenure. This included overseeing an extensive website migration, setting up and managing project sites, devising yearly project and marketing plans, and being the key liaison between the team and our developers.</li>
+<li>Experienced using Drupal CMS, ExpressionEngine, Sharepoint and ClickDimensions.</li></ul>
+</details>
+<details>
+<summary><strong>Technical Team Administrator (2010 - 2012)</strong></summary> 
+<strong>The Chartered Institute of Taxation</strong>
+<ul><li>Website management of 3 separate organisations' Technical areas, including proofing and formatting content, database management (Citrix and Access) and social media output.</li></ul>
+</details>
+<details>
+<summary><strong>Accounts Officer (2010)</strong></summary> 
+<strong>Constellation</strong>
+<ul><li>Client portfolio management involving specialised customer care.</li>
+<li>Preparation of client and financial reports, including trend identification.</li>
+<li>Logistics and supply chain problem solving.</li>
+<li>Management of Citrix database.</li></ul>
+</details>
+<details>
+<summary><strong>Placements Officer (2008 - 2009)</strong></summary> 
+<strong>NHS Continuing Care, NHS Surrey PCT</strong>
+<ul><li>Responsible for sourcing care for elderly or disabled patients on an individual basis.</li>
+<li>Intensive liaison between hospital staff, relatives, agencies and nursing homes.</li>
+<li>Management of database, containing sensitive and confidential information.</li>
+<li>Administrative and IT support, involving extensive use of Microsoft Office.</li></ul>
+</details>
 
 <h2>Freelance</h2>
 
-**Thirteen Months** (2020 to present)    
-*Web developer*
-- Styling and troubleshooting template issues on a Shopify website. Shopify uses Liquid, a template language created by Shopify and written in Ruby.
-
-**Bridal Bus** (2020 to present)    
-*Web developer*
-- I recently started building a website for a new business, Bridal Bus, using Wordpress. This project is still in its infancy but I am aiming to help quickly set the website up then add bespoke features using the knowledge I have gained from both my Web Development Foundation and at Makers. 
-
-**Leasing Life/Motor Finance magazines** (2016 to present)    
-*Sub-editor*
-- Proofing and copy editing in Indesign
+<details>
+<summary><strong>Shopify - Web Developer</strong></summary> 
+<ul><li>Styling and troubleshooting template issues on a Shopify website. Shopify uses Liquid, a template language created by Shopify and written in Ruby.</li></ul>
+</details>
+<details>
+<summary><strong>Wordpress - Web Developer</strong></summary> 
+<ul><li>Building a website for a new business, Bridal Bus, in Wordpress. This project is still in its infancy (and is on hold because of the current situation).</li></ul>
+</details>
+<details>
+<summary><strong>InDesign - Sub-Editor</strong></summary> 
+<ul><li>Proofing and copy editing in Indesign</li></ul>
+</details>
 
 <h2>Hobbies</h2>
 
