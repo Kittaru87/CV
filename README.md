@@ -11,8 +11,8 @@ Graduate of the inimitable Makers Academy, following a nine year career working 
 <p align="center">
   <b></b>
   <a href="#profile">Profile</a> |
-  <a href="#skills">Skills</a> |
   <a href="#projects">Projects</a> |
+  <a href="#skills">Skills</a> |
   <a href="#education">Education</a> |
   <a href="#training-courses">Training courses</a> |
   <a href="#work-experience">Work experience</a> |
@@ -23,9 +23,9 @@ Graduate of the inimitable Makers Academy, following a nine year career working 
 
 <h2>Profile</h2>
 
-Changing careers is not an easy thing to do. My entire career has centered around website management and digital content, including working with a Drupal CMS, Citrix, Access, Sharepoint and Indesign, and I have had a lot of success in my previous role - as digital content and SEO lead, I helped increase website traffic from roughly 100,000 visitors a year to 5.5 million over my tenure, directly contributing to the team winning 'Best Specialist Team in a public or not-for-profit organisation' at the Taxation Awards 2020. I have also taken on freelance work to supplement my learning and knowledge-base, including development of WordPress and Shopify sites for a couple of small businesses and sub-editing for two trade magazines. However, it was while I was attending [23 Code Street](https://www.23codestreet.com/), a 3-month evening web development course, that I really fell in love with programming. This led to a number of online courses and then finally to [Makers](https://makers.tech/), a 16-week intensive dev bootcamp. And I am loving every second of it.
+Changing careers is not an easy thing to do. My entire career has centered around website management and digital content, and I have had a lot of success in my previous role - as digital content and SEO lead, I helped increase website traffic from roughly 100,000 visitors a year to 5.5 million over my tenure, directly contributing to the team winning 'Best Specialist Team in a public or not-for-profit organisation' at the Taxation Awards 2020. I have also taken on freelance work to supplement my learning and knowledge-base, including development of WordPress and Shopify sites for a couple of small businesses and sub-editing for two trade magazines. However, it was while I was attending [23 Code Street](https://www.23codestreet.com/), a 3-month evening web development course, that I really fell in love with programming. This led to a number of online courses and then finally to [Makers](https://makers.tech/), a 16-week intensive dev bootcamp. And I am loving every second of it.
 
-My professional training includes test-driven development (TDD) and object-oriented programming (OOP), and incorporates front and backend development. It was both fast paced and constantly evolving, conditions that I thrive in - the more there is to learn, the better. I have even started a [blog](https://medium.com/@sophbell87), which will help consolidate my learning process while offering an opportunity to write informatively (great practice for code documentation).
+My professional training includes test-driven development (TDD) and object-oriented programming (OOP), and incorporates front and backend development. It was both fast paced and constantly evolving, conditions that I thrive in - the more there is to learn, the better. I have even started a [blog](https://medium.com/@sophbell87), which will help consolidate my learning process while offering an opportunity to write informatively (great practice for code documentation!).
 
 I look forward to taking the skills I already have and those I will learn and applying them to any project that comes my way. Most of all I look forward to working with like-minded people who feel passionate about coding and with whom I can take the next step in my career.
 
@@ -34,6 +34,18 @@ I look forward to taking the skills I already have and those I will learn and ap
 **Testing**: RSpec, Jasmine, Capybara
 
 **Linting**: Rubocop, ESlint, Simplecov
+
+<h2>Projects</h2>
+
+| Project       | Details       | Technologies  | Testing  |
+| ------------- |:-------------:| :------------:|---------:|
+| [Mix Tape](https://github.com/KG700/mix-tape)| Makers final project to build an app that utilises the Spotify API to mix and produce playlists with your friends, and play them in-app | React, Rails, JavaScript, Ruby, PostgreSQL | Rspec, Capybara, Simplecov, ESlint |
+| [Innercise](https://github.com/Kittaru87/innercise) | Current project to create an app to help people more effectively exercise indoors using the YouTube API | Ruby, Rails, PostgreSQL, Bootstrap | Rspec, Capybara, Simplecov, Coveralls |
+| [Acebook](https://github.com/Kittaru87/acebook-theUndefinedMethod) | Team project to build a clone of Facebook | Ruby, Rails, JavaScript, jQuery, React, PostgreSQL, Bootstrap | Rspec, Capybara, Simplecov, Coveralls, CodeClimate |
+| [Chitter](https://github.com/Kittaru87/chitter-challenge) | Individual project to build a clone of Twitter | Ruby, Sinatra, PostgreSQL | Capybara, Rspec, Rubocop |
+| [Bank Tech Test](https://github.com/Kittaru87/bank-tech-test) | To write a program that can be used by irb to simulate a user's interaction with their bank account | Ruby | Rspec, Rubocop, Simplecov |
+
+All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 
 <h2>Skills</h2>
 
@@ -52,18 +64,6 @@ Once I had an inkling that software engineering was the path I wanted to take, I
 **Attention to detail**
 
 It is important to be able to spot mistakes, especially when it comes to code. My previous roles have always required an eye for detail and the ability to quickly pick up on spelling, grammatical or formatting errors. As sub-editor to 2 trade magazines this means not only proofing the documents but also rewriting large swathes of text, including reordering or compacting articles in order to better fit the page (via Indesign). This is a skill I feel translates well into the world of programming, not only for debugging but also refactoring of code.
-
-<h2>Projects</h2>
-
-| Project       | Details       | Technologies  | Testing  |
-| ------------- |:-------------:| :------------:|---------:|
-| [Mix Tape](https://github.com/KG700/mix-tape)| Makers final project to build an app that utilises the Spotify API to mix and produce playlists with your friends, and play them in-app | React, Rails, JavaScript, Ruby, PostgreSQL | Rspec, Capybara, Simplecov, ESlint |
-| [Innercise](https://github.com/Kittaru87/innercise) | Current project to create an app to help people more effectively exercise indoors using the YouTube API | Ruby, Rails, PostgreSQL, Bootstrap | Rspec, Capybara, Simplecov, Coveralls |
-| [Acebook](https://github.com/Kittaru87/acebook-theUndefinedMethod) | Team project to build a clone of Facebook | Ruby, Rails, JavaScript, jQuery, React, PostgreSQL, Bootstrap | Rspec, Capybara, Simplecov, Coveralls, CodeClimate |
-| [Chitter](https://github.com/Kittaru87/chitter-challenge) | Individual project to build a clone of Twitter | Ruby, Sinatra, PostgreSQL | Capybara, Rspec, Rubocop |
-| [Bank Tech Test](https://github.com/Kittaru87/bank-tech-test) | To write a program that can be used by irb to simulate a user's interaction with their bank account | Ruby | Rspec, Rubocop, Simplecov |
-
-All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 
 <h2>Education</h2>
 
