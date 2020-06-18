@@ -127,6 +127,7 @@ All training requested and undertaken once I had identified gaps in my previous 
 
 **NHS Continuing Care, NHS Surrey PCT** (2008 - 2009)
 *Placements Officer*
+
 Responsible for sourcing care for elderly or disabled patients on an individual basis.
 - Intensive liaison between hospital staff, relatives, agencies and nursing homes.
 - Management of database, containing sensitive and confidential information.
