@@ -8,23 +8,22 @@
 <a href="https://medium.com/@sophbell87"><img src="https://camo.githubusercontent.com/fb4865eefe449caf99147ee43f405f5c60533b82/687474703a2f2f7777772e7765626d6173746f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30382f4d656469756d2d4170702d49636f6e2d323031372e706e67" alt="medium" height="42" width="42" hspace="30" data-canonical-src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png"></a>
 <a href="https://www.linkedin.com/in/sophia-bell-1a945a2b/"><img src="https://camo.githubusercontent.com/48a30c956b0affacc0bb4c93c3f04151ed015f0e/68747470733a2f2f7777772e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f667265652d736f6369616c2d69636f6e732f36372f6c696e6b6564696e5f636972636c655f636f6c6f722d3531322e706e67" alt="linkedin" height="42" width="42" hspace="30" data-canonical-src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png"></a>
 </p>
-<p align="center">
+<h4 align="center">
   <b></b>
   <a href="#profile">Profile</a> |
   <a href="#projects">Projects</a> |
   <a href="#skills">Skills</a> |
   <a href="#education">Education</a> |
   <a href="#work-experience">Work experience</a> |
-  <a href="#freelance">Freelance</a> |
   <a href="#hobbies">Hobbies</a> |
   <a href="#contact">Contact</a>
-</p>
+</h4>
 
 <h2>Profile</h2>
 
 Changing careers is not an easy thing to do. The majority of my career has centered around website management and digital content, and I have had a lot of success in my previous role - as digital content and SEO lead, I helped increase website traffic to my sites from roughly 100,000 visitors a year to 5.5 million over my tenure, directly contributing to the team winning <a href="https://www.litrg.org.uk/about-us/litrg-successes">'Best Specialist Team in a public or not-for-profit organisation'</a> at the Taxation Awards 2020. However, I was only really skimming the surface of the tech world and I still felt like something was missing.
 
-It was only when I started a 3-month evening web development course at [23 Code Street](https://www.23codestreet.com/), that I finally understood what I wanted to do - programming! This led to a number of online courses and then finally to [Makers](https://makers.tech/), a 16-week intensive dev bootcamp. And I am loving every second of it! I have even started a [blog](https://medium.com/@sophbell87), which is really helping to consolidate my learning (and is great practice for code documentation).
+It was only when I started a 3-month evening web development course at [23 Code Street](https://www.23codestreet.com/) that I finally understood what I wanted to do - programming! This led to a number of online courses and finally to [Makers](https://makers.tech/), a 16-week intensive dev bootcamp. And I am loving every second of it! I have even started a [blog](https://medium.com/@sophbell87), which is really helping to consolidate my learning (and is great practice for code documentation).
 
 I look forward to taking the skills I already have and those I will learn and applying them to any project that comes my way. Most of all I look forward to working with like-minded people who feel passionate about coding and with whom I can take the next step in my career.
 
@@ -38,10 +37,10 @@ I look forward to taking the skills I already have and those I will learn and ap
 
 | Project       | Details       | Technologies  | What I learnt  |
 | :-------------: |:-------------:| :------------:|:---------:  |
-| [Mix Tape](https://github.com/KG700/mix-tape)| <img src="./images/mixtape.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"><br />Makers final project to build an app that utilises the Spotify API to mix and produce playlists with your friends, and play them in-app | React, Rails, JavaScript, Ruby, PostgreSQL, Heroku <br /><strong>Testing and linting:</strong><br /> Rspec, Capybara, Simplecov, ESlint| <ul style="text-align: left;"><li>Learning an entirely new framework (React) in under 2 weeks is tough but manageable enough to produce a working and great looking app!</li><li>Communication and teamwork are vital when learning new skills quickly</li><li>Spotify API authentication is tricky but once you crack it, you are able to do so much.<li>Code reviews are a must!</li></ul> |
-| [Innercise](https://github.com/Kittaru87/innercise) | <img src="./images/innercise.png" style="display: block; margin-left: auto; margin-right: auto;width: 400px;"><br />Current project to create an app to help people more effectively exercise indoors using the YouTube API | Ruby, Rails, Javascript, jQuery, PostgreSQL, Bootstrap, Heroku, Travis CI <br /><strong>Testing and linting:</strong><br /> Rspec, Capybara, Simplecov, Coveralls | <ul style="text-align: left;"><li>Currently still in development but using the time to really consolidate what I have learnt in previous projects (and try some new things out too!)</li><li>That setting up Travis correctly is a lesson in patience.</li><li>Always read API authorisation documentation thoroughly so you don't breach any terms of service.<li>Doing a project without a set deadline has its ups and downs.</li></ul>  |
+| [Mix Tape](https://github.com/KG700/mix-tape)| <img src="./images/mixtape.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"><br />Makers final project to build an app that utilises the Spotify API to mix and produce playlists with your friends, and play them in-app | React, Rails, JavaScript, Ruby, PostgreSQL, Heroku <br /><strong>Testing and linting:</strong><br /> Rspec, Capybara, Simplecov, ESlint| <ul style="text-align: left;"><li>Learning an entirely new framework (React) in under 2 weeks is tough but manageable enough to produce a working and great looking app!</li><li>Communication and teamwork are vital when learning new skills quickly.</li><li>Spotify API authentication is tricky but once you crack it, you are able to do so much.<li>Code reviews are a must!</li></ul> |
+| [Innercise](https://github.com/Kittaru87/innercise) | <img src="./images/innercise.png" style="display: block; margin-left: auto; margin-right: auto;width: 400px;"><br />Current project to create an app to help people more effectively exercise indoors using the YouTube API | Ruby, Rails, Javascript, jQuery, PostgreSQL, Bootstrap, Heroku, Travis CI <br /><strong>Testing and linting:</strong><br /> Rspec, Capybara, Simplecov, Coveralls | <ul style="text-align: left;"><li>Currently still in development but using the time to really consolidate what I have learnt in previous projects (and try some new things out too).</li><li>That setting up Travis correctly is a lesson in patience.</li><li>Always read API authorisation documentation thoroughly so you don't breach any terms of service.<li>Doing a project without a set deadline has its ups and downs.</li></ul>  |
 | [Acebook](https://github.com/Kittaru87/acebook-theUndefinedMethod) | <img src="./images/acebook.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"><br />Team project to build a clone of Facebook | Ruby, Rails, JavaScript, jQuery, PostgreSQL, Bootstrap, Heroku, Travis CI <br /><strong>Testing and linting:</strong><br />Rspec, Capybara, Simplecov, Coveralls, CodeClimate | <ul style="text-align: left;"><li>Taking time to research before diving straight into coding will always be beneficial. The same goes for planning.</li><li>jQuery and Rails don't often play ball nicely.</li></ul> |
-| [Bank Tech Test](https://github.com/Kittaru87/bank-tech-test) | To write a program that can be used by irb to simulate a user's interaction with their bank account | Ruby <br /><strong>Testing and linting:</strong><br />Rspec, Rubocop, Simplecov | <ul style="text-align: left;"><li>How to approach a tech test.</li><li>I wrote this program in both Ruby and Javascript to try to better understand the similarities and differences when approaching the problem from a Ruby or Javascript standpoint.</li></ul> |
+| [Bank Tech Test](https://github.com/Kittaru87/bank-tech-test) | <img src="./images/BTT.png" style="display: block; margin-left: auto; margin-right: auto;width: 400px;"><br />To write a program that can be used by irb to simulate a user's interaction with their bank account | Ruby <br /><strong>Testing and linting:</strong><br />Rspec, Rubocop, Simplecov | <ul style="text-align: left;"><li>How to approach a tech test.</li><li>I wrote this program in both Ruby and Javascript to try to better understand the similarities and differences when approaching the problem from a Ruby or Javascript standpoint.</li></ul> |
 
 All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 
@@ -112,18 +111,18 @@ All training requested and undertaken once I had identified gaps in my previous 
 
 <details>
 <summary><strong>Digital Content Manager/Webmaster (2012 - 2020)</strong></summary> 
-<strong>The Low Incomes Tax Reform Group</strong>
+<strong><em>The Low Incomes Tax Reform Group</em></strong>
 <ul><li>As Digital Content lead, website manager and SEO lead I helped increase our website traffic from roughly 100,000 visitors a year to 5.5 million over my tenure. This included overseeing an extensive website migration, setting up and managing project sites, devising yearly project and marketing plans, and being the key liaison between the team and our developers.</li>
 <li>Experienced using Drupal CMS, ExpressionEngine, Sharepoint and ClickDimensions.</li></ul>
 </details>
 <details>
 <summary><strong>Technical Team Administrator (2010 - 2012)</strong></summary> 
-<strong>The Chartered Institute of Taxation</strong>
+<strong><em>The Chartered Institute of Taxation</em></strong>
 <ul><li>Website management of 3 separate organisations' Technical areas, including proofing and formatting content, database management (Citrix and Access) and social media output.</li></ul>
 </details>
 <details>
 <summary><strong>Accounts Officer (2010)</strong></summary> 
-<strong>Constellation</strong>
+<strong><em>Constellation</em></strong>
 <ul><li>Client portfolio management involving specialised customer care.</li>
 <li>Preparation of client and financial reports, including trend identification.</li>
 <li>Logistics and supply chain problem solving.</li>
@@ -131,7 +130,7 @@ All training requested and undertaken once I had identified gaps in my previous 
 </details>
 <details>
 <summary><strong>Placements Officer (2008 - 2009)</strong></summary> 
-<strong>NHS Continuing Care, NHS Surrey PCT</strong>
+<strong><em>NHS Continuing Care, NHS Surrey PCT</em></strong>
 <ul><li>Responsible for sourcing care for elderly or disabled patients on an individual basis.</li>
 <li>Intensive liaison between hospital staff, relatives, agencies and nursing homes.</li>
 <li>Management of database, containing sensitive and confidential information.</li>
@@ -142,20 +141,31 @@ All training requested and undertaken once I had identified gaps in my previous 
 
 <details>
 <summary><strong>Shopify - Web Developer</strong></summary> 
+<strong><em>Thirteen Months</em></strong>
 <ul><li>Styling and troubleshooting template issues on a Shopify website. Shopify uses Liquid, a template language created by Shopify and written in Ruby.</li></ul>
 </details>
 <details>
 <summary><strong>Wordpress - Web Developer</strong></summary> 
-<ul><li>Building a website for a new business, Bridal Bus, in Wordpress. This project is still in its infancy (and is on hold because of the current situation).</li></ul>
+<strong><em>Bridal Bus</em></strong>
+<ul><li>Building a website for a new business in Wordpress. This project is still in its infancy (and is on hold because of the current situation).</li></ul>
 </details>
 <details>
 <summary><strong>InDesign - Sub-Editor</strong></summary> 
+<strong><em>Motor Finance/Leasing Life</em></strong>
 <ul><li>Proofing and copy editing in Indesign</li></ul>
 </details>
 
 <h2>Hobbies</h2>
 
 Sci-fi nut, gamer since the days of DOS, in practice a worse piano player than my years of playing suggest, amateur ceramicist, cat whisperer, and destroyer of potted plants (although I'm working on that one).
+
+<h3>Volunteering</h3>
+I enjoy volunteering my time when I am able. I have previously volunteered for the following organisations:
+<ul><li><a href="https://www.treesforcities.org/">Trees for Cities</a></li>
+<li><a href="https://www.wildlondon.org.uk/">London Wildlife Trust</a></li>
+<li><a href="https://www.survivorsoftorture.org/">Bellevue Program for Survivors of Torture</a></li>
+<li><a href="https://createlondon.org/">CREATE London</a></li>
+</ul>
 
 <h2>Contact</h2>
 
