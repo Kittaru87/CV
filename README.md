@@ -1,8 +1,8 @@
 <h1 align="center">Sophia Bell</h1>
 
-**Junior Full Stack Software Developer**
+<h4 align="center">Junior Full Stack Software Developer</h4>
 
-Graduate of the inimitable Makers Academy, following a nine year career working as webmaster then digital content manager for a finance professional body. I am looking for new challenges that allow me to expand my programming knowledge and skills.
+<p align="center">Graduate of the inimitable Makers Academy, following a nine-year career working as Webmaster then Digital Content Manager for a finance professional body and non-profit. I am looking for new challenges that allow me to expand my programming knowledge and skills.</p>
 
 <p align="center">
 <a href="https://medium.com/@sophbell87"><img src="https://camo.githubusercontent.com/fb4865eefe449caf99147ee43f405f5c60533b82/687474703a2f2f7777772e7765626d6173746f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30382f4d656469756d2d4170702d49636f6e2d323031372e706e67" alt="medium" height="42" width="42" hspace="30" data-canonical-src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png"></a>
@@ -14,7 +14,6 @@ Graduate of the inimitable Makers Academy, following a nine year career working 
   <a href="#projects">Projects</a> |
   <a href="#skills">Skills</a> |
   <a href="#education">Education</a> |
-  <a href="#training-courses">Training courses</a> |
   <a href="#work-experience">Work experience</a> |
   <a href="#freelance">Freelance</a> |
   <a href="#hobbies">Hobbies</a> |
@@ -23,27 +22,26 @@ Graduate of the inimitable Makers Academy, following a nine year career working 
 
 <h2>Profile</h2>
 
-Changing careers is not an easy thing to do. My entire career has centered around website management and digital content, and I have had a lot of success in my previous role - as digital content and SEO lead, I helped increase website traffic from roughly 100,000 visitors a year to 5.5 million over my tenure, directly contributing to the team winning 'Best Specialist Team in a public or not-for-profit organisation' at the Taxation Awards 2020. I have also taken on freelance work to supplement my learning and knowledge-base, including development of WordPress and Shopify sites for a couple of small businesses and sub-editing for two trade magazines. However, it was while I was attending [23 Code Street](https://www.23codestreet.com/), a 3-month evening web development course, that I really fell in love with programming. This led to a number of online courses and then finally to [Makers](https://makers.tech/), a 16-week intensive dev bootcamp. And I am loving every second of it.
+Changing careers is not an easy thing to do. The majority of my career has centered around website management and digital content, and I have had a lot of success in my previous role - as digital content and SEO lead, I helped increase website traffic to my sites from roughly 100,000 visitors a year to 5.5 million over my tenure, directly contributing to the team winning <a href="https://www.litrg.org.uk/about-us/litrg-successes">'Best Specialist Team in a public or not-for-profit organisation'</a> at the Taxation Awards 2020. However, I was only really skimming the surface of the tech world and I still felt like something was missing.
 
-My professional training includes test-driven development (TDD) and object-oriented programming (OOP), and incorporates front and backend development. It was both fast paced and constantly evolving, conditions that I thrive in - the more there is to learn, the better. I have even started a [blog](https://medium.com/@sophbell87), which will help consolidate my learning process while offering an opportunity to write informatively (great practice for code documentation!).
+It was only when I started a 3-month evening web development course at [23 Code Street](https://www.23codestreet.com/), that I finally understood what I wanted to do - programming! This led to a number of online courses and then finally to [Makers](https://makers.tech/), a 16-week intensive dev bootcamp. And I am loving every second of it! I have even started a [blog](https://medium.com/@sophbell87), which is really helping to consolidate my learning (and is great practice for code documentation).
 
 I look forward to taking the skills I already have and those I will learn and applying them to any project that comes my way. Most of all I look forward to working with like-minded people who feel passionate about coding and with whom I can take the next step in my career.
 
-**Tech Skills** : Ruby, Rails, Javascript, React, JQuery, HTML, CSS, SQL, PostgreSQL, NodeJS
+**Tech Skills** : Ruby, Rails, Javascript, React, jQuery, HTML, CSS, SQL, PostgreSQL, NodeJS
 
-**Testing**: RSpec, Jasmine, Capybara
+**Testing**: RSpec, Jasmine, Capybara, Jest
 
 **Linting**: Rubocop, ESlint, Simplecov
 
 <h2>Projects</h2>
 
-| Project       | Details       | Technologies  | Testing  |
-| ------------- |:-------------:| :------------:|---------:|
-| [Mix Tape](https://github.com/KG700/mix-tape)| Makers final project to build an app that utilises the Spotify API to mix and produce playlists with your friends, and play them in-app | React, Rails, JavaScript, Ruby, PostgreSQL | Rspec, Capybara, Simplecov, ESlint |
-| [Innercise](https://github.com/Kittaru87/innercise) | Current project to create an app to help people more effectively exercise indoors using the YouTube API | Ruby, Rails, PostgreSQL, Bootstrap | Rspec, Capybara, Simplecov, Coveralls |
-| [Acebook](https://github.com/Kittaru87/acebook-theUndefinedMethod) | Team project to build a clone of Facebook | Ruby, Rails, JavaScript, jQuery, React, PostgreSQL, Bootstrap | Rspec, Capybara, Simplecov, Coveralls, CodeClimate |
-| [Chitter](https://github.com/Kittaru87/chitter-challenge) | Individual project to build a clone of Twitter | Ruby, Sinatra, PostgreSQL | Capybara, Rspec, Rubocop |
-| [Bank Tech Test](https://github.com/Kittaru87/bank-tech-test) | To write a program that can be used by irb to simulate a user's interaction with their bank account | Ruby | Rspec, Rubocop, Simplecov |
+| Project       | Details       | Technologies  | What I learnt  |
+| :-------------: |:-------------:| :------------:|:---------:  |
+| [Mix Tape](https://github.com/KG700/mix-tape)| <img src="./images/mixtape.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"><br />Makers final project to build an app that utilises the Spotify API to mix and produce playlists with your friends, and play them in-app | React, Rails, JavaScript, Ruby, PostgreSQL, Heroku <br /><strong>Testing and linting:</strong><br /> Rspec, Capybara, Simplecov, ESlint| <ul style="text-align: left;"><li>Learning an entirely new framework (React) in under 2 weeks is tough but manageable enough to produce a working and great looking app!</li><li>Communication and teamwork are vital when learning new skills quickly</li><li>Spotify API authentication is tricky but once you crack it, you are able to do so much.<li>Code reviews are a must!</li></ul> |
+| [Innercise](https://github.com/Kittaru87/innercise) | <img src="./images/innercise.png" style="display: block; margin-left: auto; margin-right: auto;width: 400px;"><br />Current project to create an app to help people more effectively exercise indoors using the YouTube API | Ruby, Rails, Javascript, jQuery, PostgreSQL, Bootstrap, Heroku, Travis CI <br /><strong>Testing and linting:</strong><br /> Rspec, Capybara, Simplecov, Coveralls | <ul style="text-align: left;"><li>Currently still in development but using the time to really consolidate what I have learnt in previous projects (and try some new things out too!)</li><li>That setting up Travis correctly is a lesson in patience.</li><li>Always read API authorisation documentation thoroughly so you don't breach any terms of service.<li>Doing a project without a set deadline has its ups and downs.</li></ul>  |
+| [Acebook](https://github.com/Kittaru87/acebook-theUndefinedMethod) | <img src="./images/acebook.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"><br />Team project to build a clone of Facebook | Ruby, Rails, JavaScript, jQuery, PostgreSQL, Bootstrap, Heroku, Travis CI <br /><strong>Testing and linting:</strong><br />Rspec, Capybara, Simplecov, Coveralls, CodeClimate | <ul style="text-align: left;"><li>Taking time to research before diving straight into coding will always be beneficial. The same goes for planning.</li><li>jQuery and Rails don't often play ball nicely.</li></ul> |
+| [Bank Tech Test](https://github.com/Kittaru87/bank-tech-test) | To write a program that can be used by irb to simulate a user's interaction with their bank account | Ruby <br /><strong>Testing and linting:</strong><br />Rspec, Rubocop, Simplecov | <ul style="text-align: left;"><li>How to approach a tech test.</li><li>I wrote this program in both Ruby and Javascript to try to better understand the similarities and differences when approaching the problem from a Ruby or Javascript standpoint.</li></ul> |
 
 All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 
@@ -51,7 +49,7 @@ All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 
 <details>
 <summary><strong>Adaptable and thrives under pressure</strong></summary>
-Part of the process of being a Maker is being able to adapt your learning to whatever project, learning tool or pair partner you are working with that week. This was especially the case during our final project, [Mix Tape](https://github.com/KG700/mix-tape). The easy thing to do would have been to pick a subject and framework we were familiar with, however wanting to continue our learning and see how far we could push ourselves, we opted to use two things we had very little experience with, APIs and React. The learning curve was steep as we had less than 2 weeks to completion, but we were able to put together a project that utilises a React frontend and Rails backend to interact with the Spotify API. We continually adapted our design to take into account time constraints and used Agile methodologies thoughout.
+Part of the process of being a Maker is being able to adapt your learning to whatever project, learning tool or pair partner you are working with that week. This was especially the case during our final project, <a href="https://github.com/KG700/mix-tape">Mix Tape</a>. The easy thing to do would have been to pick a subject and framework we were familiar with, however wanting to continue our learning and see how far we could push ourselves, we opted to use two things we had very little experience with, APIs and React. The learning curve was steep as we had less than 2 weeks to completion, but we were able to put together a project that utilises a React frontend and Rails backend to interact with the Spotify API. We continually adapted our design to take into account time constraints and used Agile methodologies thoughout.
 </details>
 <details>
 <summary><strong>Teamwork</strong></summary>
@@ -59,11 +57,11 @@ Project work, by far, has been the most enjoyable aspect of my time at Makers. I
 </details>
 <details>
 <summary><strong>Takes the initiative</strong></summary>
-Once I had an inkling that software engineering was the path I wanted to take, I immediately set about making that happen alongside my day job and freelance work. I attended [23 Code Street's web development course](https://www.23codestreet.com/), started online courses such as Codacademy, and sat down with a number of friends already in the industry to pair program with, picking their brains on best practice and what their expectations are for junior developers (emphasis on enthusiasm, learning and not to play code golf...). Since leaving Makers I've started my own projects, both solo and with other junior developers, in order to continue my learning journey, including a [rails app to help people exercise indoors](https://github.com/Kittaru87/Innercise). 
+Once I had an inkling that software engineering was the path I wanted to take, I immediately set about making that happen alongside my day job and freelance work. I attended <a href="https://www.23codestreet.com/">23 Code Street's web development course</a>, started online courses such as Codacademy, and sat down with a number of friends already in the industry to pair program with, picking their brains on best practice and what their expectations are for junior developers (emphasis on enthusiasm, learning and not to play code golf...). Since leaving Makers I've started my own projects, both solo and with other junior developers, in order to continue my learning journey, including a <a href="https://github.com/Kittaru87/Innercise">rails app to help people exercise indoors</a>. 
 </details>
 <details>
 <summary><strong>Attention to detail</strong></summary>
-It is important to be able to spot mistakes, especially when it comes to code. My previous roles have always required an eye for detail and the ability to quickly pick up on spelling, grammatical or formatting errors. As sub-editor to 2 trade magazines this means not only proofing the documents but also rewriting large swathes of text, including reordering or compacting articles in order to better fit the page (via Indesign). This is a skill I feel translates well into the world of programming, not only for debugging but also refactoring of code.
+It is important to be able to spot mistakes, especially when it comes to code. My previous roles have always required an eye for detail and the ability to quickly pick up on spelling, grammatical or formatting errors. As sub-editor to 2 trade magazines this means not only proofing the documents but also rewriting large swathes of text, including reordering or compacting articles in order to better fit the page (via Indesign). This is a skill I feel translates well into the world of programming, not only for debugging but also refactoring of code, and is something I have been able to prove over my course period, both in my project and individual work.
 </details>
 
 <h2>Education</h2>
@@ -101,7 +99,7 @@ A 12-week bi-weekly Web Development Foundation course.
 <li>Elected Head Girl by the student body and faculty</li></ul>
 </details>
 
-<h2>Training courses</h2>
+<h3>Professional Development</h3>
 
 All training requested and undertaken once I had identified gaps in my previous team's knowledge and expertise. This contributed to our team's effeciency and success as I was able to take these roles in-house.
 - Drupal 7 CMS training
@@ -140,7 +138,7 @@ All training requested and undertaken once I had identified gaps in my previous 
 <li>Administrative and IT support, involving extensive use of Microsoft Office.</li></ul>
 </details>
 
-<h2>Freelance</h2>
+<h3>Freelance</h3>
 
 <details>
 <summary><strong>Shopify - Web Developer</strong></summary> 
