@@ -35,20 +35,7 @@ I look forward to taking the skills I already have and those I will learn and ap
 
 <h2>Projects</h2>
 
-<style>
-  table th:first-of-type {
-      width: 10%;
-  }
-  table th:nth-of-type(2) {
-      width: 40%;
-  }
-  table th:nth-of-type(3) {
-      width: 50%;
-  }
-}
-</style>
-
-| Project       | Details       | What I learnt |
+| Project | Details  | <div style="width:300px">What I learnt</div>  |
 | :-------------: |:-------------:| :---------:  |
 | [Mix Tape](https://github.com/KG700/mix-tape)| <img src="./images/MixTape.png" style="display: block; margin-left: auto; margin-right: auto;"><br />Makers final project to build an app that utilises the Spotify API to mix and produce playlists with your friends, and play them in-app.<br /> <strong>React Frontend, Rails Backend</strong> | <ul style="text-align: left;"><li>Learning an entirely new framework (React) in under 2 weeks is tough but manageable enough to produce a working and great looking app!</li><li>Communication and teamwork are vital when learning new skills quickly.</li><li>Spotify API authentication is tricky but once you crack it, you are able to do so much.<li>Code reviews are a must!</li></ul><p style="text-align: left;"><strong>Tech:</strong> React, Rails, JavaScript, Ruby, PostgreSQL, Heroku <br /><strong>Testing and linting:</strong> Rspec, Capybara, Simplecov, ESlint</p> |
 | [Innercise](https://github.com/Kittaru87/innercise) | <img src="./images/Innercise.png" style="display: block; margin-left: auto; margin-right: auto;"><br />Current project to create an app to help people more effectively exercise indoors using the YouTube API<br /> <strong>Ruby on Rails</strong>  | <ul style="text-align: left;"><li>Currently still in development but using the time to really consolidate what I have learnt in previous projects (and try some new things out too).</li><li>That setting up Travis correctly is a lesson in patience.</li><li>Always read API authorisation documentation thoroughly so you don't breach any terms of service.<li>Doing a project without a set deadline has its ups and downs.</li></ul><p style="text-align: left;"><strong>Tech: </strong>Ruby, Rails, Javascript, jQuery, PostgreSQL, Bootstrap, Heroku, Travis CI <br /><strong>Testing and linting:</strong> Rspec, Capybara, Simplecov, Coveralls</p> |
