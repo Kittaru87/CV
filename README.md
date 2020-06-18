@@ -118,6 +118,20 @@ All training requested and undertaken once I had identified gaps in my previous 
 *Technical Team Administrator*  
 - Website management of 3 separate organisations' Technical areas, including proofing and formatting content, database management (Citrix and Access) and social media output.
 
+**Constellation** (2010 to 2010)
+*Customer Service Executive*
+- Client portfolio management involving specialised customer care.
+- Preparation of client and financial reports, including trend identification.
+- Logistics and supply chain problem solving.
+- Management of Citrix database.
+
+**NHS Continuing Care, NHS Surrey PCT** (2008 - 2009)
+*Placements Officer*
+Responsible for sourcing care for elderly or disabled patients on an individual basis.
+- Intensive liaison between hospital staff, relatives, agencies and nursing homes.
+- Management of database, containing sensitive and confidential information.
+- Administrative and IT support, involving extensive use of Microsoft Office.
+
 <h2>Freelance</h2>
 
 **Thirteen Months** (2020 to present)    
