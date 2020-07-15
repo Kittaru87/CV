@@ -4,6 +4,8 @@
 
 <p align="center">Graduate of the inimitable Makers Academy, following a nine-year career working as Webmaster then Digital Content Manager for a finance professional body and non-profit. I am looking for new challenges that allow me to expand my programming knowledge and skills.</p>
 
+[www.sophiabell.dev](https://www.sophiabell.dev/)
+
 <p align="center">
 <a href="https://medium.com/@sophbell87"><img src="https://camo.githubusercontent.com/fb4865eefe449caf99147ee43f405f5c60533b82/687474703a2f2f7777772e7765626d6173746f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30382f4d656469756d2d4170702d49636f6e2d323031372e706e67" alt="medium" height="42" width="42" hspace="30" data-canonical-src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png"></a>
 <a href="https://www.linkedin.com/in/sophia-bell-1a945a2b/"><img src="https://camo.githubusercontent.com/48a30c956b0affacc0bb4c93c3f04151ed015f0e/68747470733a2f2f7777772e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f667265652d736f6369616c2d69636f6e732f36372f6c696e6b6564696e5f636972636c655f636f6c6f722d3531322e706e67" alt="linkedin" height="42" width="42" hspace="30" data-canonical-src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png"></a>
@@ -27,20 +29,20 @@ It was only when I started a 3-month evening web development course at [23 Code 
 
 I look forward to taking the skills I already have and those I will learn and applying them to any project that comes my way. Most of all I look forward to working with like-minded people who feel passionate about coding and with whom I can take the next step in my career.
 
-**Tech Skills** : Ruby, Rails, Javascript, React, jQuery, HTML, CSS, SQL, PostgreSQL, NodeJS
+**Tech Skills** : Ruby, Rails, Javascript, React, Python, jQuery, HTML, CSS, SQL, PostgreSQL, NodeJS
 
-**Testing**: RSpec, Jasmine, Capybara, Jest
+**Testing**: RSpec, Jasmine, Capybara, Jest, Pytest
 
 **Linting**: Rubocop, ESlint, Simplecov
 
 <h2>Projects</h2>
 
-| Project | Details  | <div style="width:300px">What I learnt</div>  |
-| :-------------: |:-------------:| :---------:  |
-| [Mix Tape](https://github.com/KG700/mix-tape)| <img src="./images/MixTape.png" style="display: block; margin-left: auto; margin-right: auto;"><br />Makers final project to build an app that utilises the Spotify API to mix and produce playlists with your friends, and play them in-app.<br /> <strong>React Frontend, Rails Backend</strong> | <ul align="left"><li>Learning an entirely new framework (React) in under 2 weeks is tough but manageable enough to produce a working and great looking app!</li><li>Communication and teamwork are vital when learning new skills quickly.</li><li>Spotify API authentication is tricky but once you crack it, you are able to do so much.<li>Code reviews are a must!</li></ul><p align="left"><strong>Tech:</strong> React, Rails, JavaScript, Ruby, PostgreSQL, Heroku <br /><strong>Testing and linting:</strong> Rspec, Capybara, Simplecov, ESlint</p> |
-| [Innercise](https://github.com/Kittaru87/innercise) | <img src="./images/Innercise.png" style="display: block; margin-left: auto; margin-right: auto;"><br />Current project to create an app to help people more effectively exercise indoors using the YouTube API<br /> <strong>Ruby on Rails</strong>  | <ul align="left"><li>Currently still in development but using the time to really consolidate what I have learnt in previous projects (and try some new things out too).</li><li>That setting up Travis correctly is a lesson in patience.</li><li>Always read API authorisation documentation thoroughly so you don't breach any terms of service.<li>Doing a project without a set deadline has its ups and downs.</li></ul><p align="left"><strong>Tech: </strong>Ruby, Rails, Javascript, jQuery, PostgreSQL, Bootstrap, Heroku, Travis CI <br /><strong>Testing and linting:</strong> Rspec, Capybara, Simplecov, Coveralls</p> |
-| [Acebook](https://github.com/Kittaru87/acebook-theUndefinedMethod) | <img src="./images/Acebook.png" style="display: block; margin-left: auto; margin-right: auto;"><br />Team project to build a clone of Facebook <br /> <strong>Ruby on Rails</strong>| <ul align="left"><li>Taking time to research before diving straight into coding will always be beneficial. The same goes for planning.</li><li>jQuery and Rails don't often play ball nicely.</li></ul><p align="left"><strong>Tech: </strong>Ruby, Rails, JavaScript, jQuery, PostgreSQL, Bootstrap, Heroku, Travis CI <br /><strong>Testing and linting:</strong> Rspec, Capybara, Simplecov, Coveralls, CodeClimate</p> |
-| [Bank Tech Test](https://github.com/Kittaru87/bank-tech-test) | <img src="./images/BTT.png" style="display: block; margin-left: auto; margin-right: auto;"><br />To write a program that can be used by irb to simulate a user's interaction with their bank account | <ul align="left"><li>How to approach a tech test.</li><li>I wrote this program in both Ruby and Javascript to try to better understand the similarities and differences when approaching the problem from a Ruby or Javascript standpoint.</li></ul><p align="left"><strong>Tech: </strong>Ruby <br /><strong>Testing and linting:</strong> Rspec, Rubocop, Simplecov</p> |
+|                              Project                               |                                                                                                                                              Details                                                                                                                                               |                                                                                                                                                                                                                                                                                            <div style="width:300px">What I learnt</div>                                                                                                                                                                                                                                                                                             |
+| :----------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|           [Mix Tape](https://github.com/KG700/mix-tape)            | <img src="./images/MixTape.png" style="display: block; margin-left: auto; margin-right: auto;"><br />Makers final project to build an app that utilises the Spotify API to mix and produce playlists with your friends, and play them in-app.<br /> <strong>React Frontend, Rails Backend</strong> |                                    <ul align="left"><li>Learning an entirely new framework (React) in under 2 weeks is tough but manageable enough to produce a working and great looking app!</li><li>Communication and teamwork are vital when learning new skills quickly.</li><li>Spotify API authentication is tricky but, once you crack it, you are able to do so much.<li>Code reviews are a must!</li></ul><p align="left"><strong>Tech:</strong> React, Rails, Javascript, Ruby, PostgreSQL, Heroku <br /><strong>Testing and linting:</strong> Rspec, Capybara, Simplecov, ESlint</p>                                    |
+|        [Innercise](https://github.com/Kittaru87/innercise)         |                        <img src="./images/Innercise.png" style="display: block; margin-left: auto; margin-right: auto;"><br />Current project to create an app to help people more effectively exercise indoors using the YouTube API<br /> <strong>Ruby on Rails</strong>                         | <ul align="left"><li>Currently still in development but using the time to really consolidate what I have learnt in previous projects (and try some new things out too).</li><li>That setting up Travis correctly is a lesson in patience.</li><li>Always read API authorisation documentation thoroughly so you don't breach any terms of service.<li>Doing a project without a set deadline has its ups and downs.</li></ul><p align="left"><strong>Tech: </strong>Ruby, Rails, Javascript, jQuery, PostgreSQL, Bootstrap, Heroku, Travis CI <br /><strong>Testing and linting:</strong> Rspec, Capybara, Simplecov, Coveralls</p> |
+| [Acebook](https://github.com/Kittaru87/acebook-theUndefinedMethod) |                                                        <img src="./images/Acebook.png" style="display: block; margin-left: auto; margin-right: auto;"><br />Team project to build a clone of Facebook <br /> <strong>Ruby on Rails</strong>                                                        |                                                                                                     <ul align="left"><li>Taking time to research before diving straight into coding will always be beneficial. The same goes for planning.</li><li>jQuery and Rails don't often play ball nicely.</li></ul><p align="left"><strong>Tech: </strong>Ruby, Rails, Javascript, jQuery, PostgreSQL, Bootstrap, Heroku, Travis CI <br /><strong>Testing and linting:</strong> Rspec, Capybara, Simplecov, Coveralls, CodeClimate</p>                                                                                                      |
+|   [Bank Tech Test](https://github.com/Kittaru87/bank-tech-test)    |                                                <img src="./images/BTT.png" style="display: block; margin-left: auto; margin-right: auto;"><br />To write a program that can be used by irb to simulate a user's interaction with their bank account                                                |                                                                                                                              <ul align="left"><li>How to approach a tech test.</li><li>I wrote this program in both Ruby and Javascript to try to better understand the similarities and differences when approaching the problem from a Ruby or Javascript standpoint.</li></ul><p align="left"><strong>Tech: </strong>Ruby <br /><strong>Testing and linting:</strong> Rspec, Rubocop, Simplecov</p>                                                                                                                              |
 
 All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 
@@ -70,7 +72,7 @@ It is important to be able to spot mistakes, especially when it comes to code. M
 Highly selective 16-week immersive course that emphasises test-driven software development and agile methodologies. As a student I was encouraged to take ownership of my learning process, both as an individual and part of a team, producing programs in a variety of languages and frameworks. This included:
 
 - Collaborating and learning through pair programming and peer-driven code reviews
-- Writing clear, simple code by following TDD and OOP design patterns  
+- Writing clear, simple code by following TDD and OOP design patterns
 - Daily stand-ups, sprint planning and evening retros
 - Project work using GitHub as a version control tool (largely done remotely)
 - Understanding project requirements by creating user stories, domain models and breaking features down into smaller, manageable tasks
@@ -83,7 +85,6 @@ A 12-week bi-weekly Web Development Foundation course.
 - Version control via GitHub and Fork
 - Responsive and accessible development and design principles
 - Group work and pair programming
-
 
 <details>
 <summary><strong>Durham University (2005 - 2008)</strong></summary> 
@@ -101,6 +102,7 @@ A 12-week bi-weekly Web Development Foundation course.
 <h3>Professional Development</h3>
 
 All training requested and undertaken once I had identified gaps in my previous team's knowledge and expertise. This contributed to our team's effeciency and success as I was able to take these roles in-house.
+
 - Drupal 7 CMS training
 - HTML/CSS Level 1 Programming Course
 - Fast Track Digital Marketing
@@ -169,6 +171,7 @@ I enjoy volunteering my time when I am able. I have previously volunteered for t
 
 <h2>Contact</h2>
 
-* Email: sophbell87@gmail.com
-* GitHub: [Kittaru87](https://github.com/Kittaru87)
-* Blogging site: [Medium](https://medium.com/@sophbell87)
+- Email: sophbell87@gmail.com
+- Portfolio website: [www.sophiabell.dev](https://www.sophiabell.dev/)
+- GitHub: [Kittaru87](https://github.com/Kittaru87)
+- Blogging site: [Medium](https://medium.com/@sophbell87)
