@@ -4,7 +4,7 @@
 
 <p align="center">Graduate of the inimitable Makers Academy, following a nine-year career working as Webmaster then Digital Content Manager for a finance professional body and non-profit.</p>
 
-<p align="center">[www.sophiabell.dev](https://www.sophiabell.dev/)</p>
+<p align="center"><a href="https://www.sophiabell.dev/">www.sophiabell.dev</a></p>
 
 <p align="center">
 <a href="https://medium.com/@sophbell87"><img src="https://camo.githubusercontent.com/fb4865eefe449caf99147ee43f405f5c60533b82/687474703a2f2f7777772e7765626d6173746f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30382f4d656469756d2d4170702d49636f6e2d323031372e706e67" alt="medium" height="42" width="42" hspace="30" data-canonical-src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png"></a>
