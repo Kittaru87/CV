@@ -1,8 +1,8 @@
 <h1 align="center">Sophia Bell</h1>
 
-<h4 align="center">Junior Full Stack Software Developer</h4>
+<h4 align="center">Software Engineer at DMW Group</h4>
 
-<p align="center">Graduate of the inimitable Makers Academy, following a nine-year career working as Webmaster then Digital Content Manager for a finance professional body and non-profit. I am looking for new challenges that allow me to expand my programming knowledge and skills.</p>
+<p align="center">Graduate of the inimitable Makers Academy, following a nine-year career working as Webmaster then Digital Content Manager for a finance professional body and non-profit.</p>
 
 [www.sophiabell.dev](https://www.sophiabell.dev/)
 
@@ -111,6 +111,9 @@ All training requested and undertaken once I had identified gaps in my previous 
 
 <h2>Work experience</h2>
 
+<details>
+<summary><strong>Software Engineer (2020 - current)</strong></summary> 
+</details>
 <details>
 <summary><strong>Digital Content Manager/Webmaster (2012 - 2020)</strong></summary> 
 <strong><em>The Low Incomes Tax Reform Group</em></strong>
