@@ -27,7 +27,7 @@ Changing careers is not an easy thing to do. The majority of my career has cente
 
 It was only when I started a 3-month evening web development course at [23 Code Street](https://www.23codestreet.com/) that I finally understood what I wanted to do - programming! This led to a number of online courses and finally to [Makers](https://makers.tech/), a 16-week intensive dev bootcamp. And I am loving every second of it! I have even started a [blog](https://medium.com/@sophbell87), which is really helping to consolidate my learning (and is great practice for code documentation).
 
-I look forward to taking the skills I already have and those I will learn and applying them to any project that comes my way. Most of all I look forward to working with like-minded people who feel passionate about coding and with whom I can take the next step in my career.
+I now look forward to taking the skills I already have and those I will learn and applying them to my role at DMW Group.
 
 **Tech Skills** : Ruby, Rails, Javascript, React, Python, jQuery, HTML, CSS, SQL, PostgreSQL, NodeJS
 
