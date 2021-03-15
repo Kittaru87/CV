@@ -1,6 +1,6 @@
 <h1 align="center">Sophia Bell</h1>
 
-<h4 align="center">Software Engineer at DMW Group</h4>
+<h4 align="center">Software Engineer at Credera UK</h4>
 
 <p align="center">Graduate of the inimitable Makers Academy, following a nine-year career working as Webmaster then Digital Content Manager for a finance professional body and non-profit.</p>
 
@@ -29,7 +29,7 @@ It was only when I started a 3-month evening web development course at [23 Code 
 
 I now look forward to taking the skills I already have and those I will learn and applying them to my role at DMW Group.
 
-**Tech Skills** : Ruby, Rails, Javascript, React, Python, jQuery, HTML, CSS, SQL, PostgreSQL, NodeJS
+**Tech Skills** : Ruby, Rails, Javascript, React, Typescript, Gatsby, JAMstack, Sanity CMS, Python, jQuery, HTML, CSS, SQL, PostgreSQL, NodeJS
 
 **Testing**: RSpec, Jasmine, Capybara, Jest, Pytest
 
@@ -113,6 +113,7 @@ All training requested and undertaken once I had identified gaps in my previous 
 
 <details>
 <summary><strong>Software Engineer (2020 - current)</strong></summary> 
+<strong><em>Credera UK</em></strong>
 </details>
 <details>
 <summary><strong>Digital Content Manager/Webmaster (2012 - 2020)</strong></summary> 
